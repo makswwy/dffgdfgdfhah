@@ -1,0 +1,2051 @@
+{
+    "order_1783144564": {
+        "order_no": 1,
+        "order_code": "EPREE5W",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Давно ищите бота для модерации/игр чатов?\nBANANA MANAGER - ваш лучший чат бот!\nЧто у нас есть что нету у других:\n\n• Много игровых команд (можно посмотреть через /игры)\n• /защита - защита от посторонних сообществ(ботов)\n• /antiflood - защита от флуда\n• Модифицированные роли - можете сами создавать свои роли!\n• Много административных функций (Для руководства бота) - /epoints /astats /norma\n• Общее количество команд - 300.\n\nЧтобы добавить бота к себе в чат вам нужно\n1. Нажать на кнопку добавить бота в чат в данном сообщение.\n2. Выдать боту права администратора(звезду)\n3. Прописать /start\n4. Далее можете включать системы/команды (по умолчанию выключены)",
+        "photo": "photo574393629_457242731_762c72bce8c3fe215f",
+        "price": 8400,
+        "days": 365,
+        "rate_name": "365 days",
+        "created_at": "2026-07-04 05:56:04",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo574393629_457242732_63e7325f0a2b54e7d2",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783144562,
+                    "id": 457242732,
+                    "owner_id": 574393629,
+                    "access_key": "63e7325f0a2b54e7d2",
+                    "sizes": [
+                        {
+                            "height": 51,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 113,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 181,
+                            "type": "x",
+                            "width": 256,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu&cs=256x0"
+                        },
+                        {
+                            "height": 181,
+                            "type": "y",
+                            "width": 256,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu&cs=256x0"
+                        },
+                        {
+                            "height": 76,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 170,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 181,
+                            "type": "base",
+                            "width": 256,
+                            "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "75e2bdfe334da0eb62",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 181,
+                        "type": "base",
+                        "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Lk6VexVZ-wZWuKc8PKX_ZogoBR_5lKSsOB_l9Iyq1JvH5PXw9utJlARpamp5HMsMV-fx80Vizla1rMamgIDSBg7f.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x170,256x181&from=bu",
+                        "width": 256
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-04 05:56:04",
+        "mention_all": true,
+        "mention_all_price": 100,
+        "button_title": "Добавить бота в чат!",
+        "button_link": "https://vk.ru/app6441755_-238088404?ref=group_menu",
+        "custom_button_price": 500,
+        "events": [
+            {
+                "at": "2026-07-04 05:56:04",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-04 05:56:19",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-06 09:12:23",
+                "event": "deleted"
+            }
+        ],
+        "approved_at": "2026-07-04 05:56:19",
+        "deleted_at": "2026-07-06 09:12:23"
+    },
+    "order_1783166432": {
+        "order_no": 2,
+        "order_code": "KZYPPB6",
+        "type": "main_text",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all ОТКРЫЛСЯ НОВЫЙ ПИАР ЧАТ ДЛЯ РЕКЛАМЫ\nЧтобы войти достаточно нажать на кнопку снизу!\n👇🏻👇🏻👇🏻",
+        "photo": "photo574393629_457242737_c5d9814a1931db1f21",
+        "price": 10600,
+        "days": 90,
+        "rate_name": "90 days",
+        "created_at": "2026-07-04 12:00:32",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo574393629_457242738_c987ffafc263012b2c",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783165467,
+                    "id": 457242738,
+                    "owner_id": 574393629,
+                    "access_key": "c987ffafc263012b2c",
+                    "sizes": [
+                        {
+                            "height": 49,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 109,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 337,
+                            "type": "x",
+                            "width": 496,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=496x0"
+                        },
+                        {
+                            "height": 337,
+                            "type": "y",
+                            "width": 496,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=496x0"
+                        },
+                        {
+                            "height": 73,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 163,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 245,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 337,
+                            "type": "base",
+                            "width": 496,
+                            "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "eb7c9f76101496579f",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 337,
+                        "type": "base",
+                        "url": "https://sun9-78.vkuserphoto.ru/s/v1/ig2/nPAIM-KAMfA-RfLpj_I2zqYd9ofsefjSMn3-mFpkCYPIigdieZDXDFJFaPJbBHbMmPKeCHTYtIveLlFB218POjoy.jpg?quality=95&as=32x22,48x33,72x49,108x73,160x109,240x163,360x245,480x326,496x337&from=bu",
+                        "width": 496
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-04 12:00:32",
+        "mention_all": true,
+        "mention_all_price": 100,
+        "button_title": "✅Присоединиться в чат!✅",
+        "button_link": "https://vk.me/join/nzw4n8GbfRafzFQEOo4I0kGdHkqxf0f14PY=",
+        "custom_button_price": 500,
+        "events": [
+            {
+                "at": "2026-07-04 12:00:32",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-04 12:00:44",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-04 12:37:10",
+                "event": "deleted"
+            }
+        ],
+        "approved_at": "2026-07-04 12:00:44",
+        "deleted_at": "2026-07-04 12:37:10"
+    },
+    "order_1783177113": {
+        "order_no": 3,
+        "order_code": "PETQM12",
+        "type": "main_text",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all ОТКРЫЛСЯ НОВЫЙ ПИАР ЧАТ ДЛЯ РЕКЛАМЫ!!!\nЧтобы войти достаточно нажать на кнопку снизу!\n👇🏻👇🏻👇🏻",
+        "photo": "photo574393629_457242737_c5d9814a1931db1f21",
+        "price": 4600,
+        "days": 30,
+        "rate_name": "месяц",
+        "created_at": "2026-07-04 14:58:33",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo574393629_457242731_859ec30acaef36cf80",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783144526,
+                    "id": 457242731,
+                    "owner_id": 574393629,
+                    "access_key": "859ec30acaef36cf80",
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 160,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 640,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 1080,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 1254,
+                            "type": "z",
+                            "width": 1254,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=1254x0"
+                        },
+                        {
+                            "height": 108,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 1254,
+                            "type": "base",
+                            "width": 1254,
+                            "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "b3b1e307b9c61be290",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 1254,
+                        "type": "base",
+                        "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/aK7MFV2GSWOaEfPIjoFwVuhyogmQv2BNxpWkmBK6wVK_IvRyllDUDslO2CM84mdYwCVNRzLgJMLvHdTtkakcxLgS.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1254x1254&from=bu",
+                        "width": 1254
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-04 14:58:33",
+        "mention_all": true,
+        "mention_all_price": 100,
+        "button_title": "✅Присоединиться в чат!✅",
+        "button_link": "https://vk.me/join/nzw4n8GbfRafzFQEOo4I0kGdHkqxf0f14PY=",
+        "custom_button_price": 500,
+        "events": [
+            {
+                "at": "2026-07-04 14:58:33",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-04 14:58:43",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-04 20:13:30",
+                "event": "deleted"
+            }
+        ],
+        "approved_at": "2026-07-04 14:58:43",
+        "deleted_at": "2026-07-04 20:13:30"
+    },
+    "order_1783237361": {
+        "order_no": 4,
+        "order_code": "ALH55RF",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Приветствую всех!\nХотел бы посоветовать вам отличный магазин для покупки аккаунтов с подписками и гарантией - Shopmania\n\nТовары:\n• Gemini\n• Syntx Pro\n• ChatGPT + Codex\n• Grok\n\nВСЕ НЕЙРОСЕТИ ИМЕЮТ ОБШИРНЫЙ СПЕКТР УСЛУГ(ОТ ГЕНЕРАЦИИ ФОТО ДО НАПИСАНИЯ КОДА, И МНОГОЕ ДРУГОЕ)\n\nМы в Телеграм - https://t.me/shopmania_AI \n\n[СКИДКА] ТОЛЬКО В ТЕЛЕГРАМ! - при начале переписки вы напишите \"Я от makswwy\" то вы получите скидку на заказ в 10%! - успейте количество раз для данного предложения ограничено.\nУ нас имеются гарантии - в случае блокировки аккаунта или вы не сможете зайти в аккаунт, мы выдадим вам новый аккаунт.",
+        "photo": "photo574393629_457242740_65bdf73e3c1ea5961c,photo574393629_457242740_aa0ff8d93b61b21a8a,photo1094157988_457239136_6e1bfffc61aa15a3c3",
+        "price": 1500,
+        "days": 30,
+        "rate_name": "месяц",
+        "created_at": "2026-07-05 07:42:41",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo574393629_457242740_65bdf73e3c1ea5961c",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783233702,
+                    "id": 457242740,
+                    "owner_id": 574393629,
+                    "access_key": "65bdf73e3c1ea5961c",
+                    "sizes": [
+                        {
+                            "height": 42,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 93,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 371,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 627,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 743,
+                            "type": "z",
+                            "width": 1280,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=1280x0"
+                        },
+                        {
+                            "height": 743,
+                            "type": "w",
+                            "width": 1280,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=1280x0"
+                        },
+                        {
+                            "height": 63,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 139,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 209,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 313,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 743,
+                            "type": "base",
+                            "width": 1280,
+                            "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "91ee1ff04c7750be8f",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 743,
+                        "type": "base",
+                        "url": "https://sun9-47.vkuserphoto.ru/s/v1/ig2/bB1nnV6a5l9CzO_kzviixMeTsEDNMl21dlbia-0N5uIwIscSGVV0pXPHMqEIVjuMhS8bjJKeS_zLdBCrZBxclfIq.jpg?quality=95&as=32x19,48x28,72x42,108x63,160x93,240x139,360x209,480x279,540x313,640x371,720x418,1080x627,1280x743&from=bu",
+                        "width": 1280
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-05 07:42:41",
+        "mention_all": true,
+        "mention_all_price": 100,
+        "button_title": "Мы в телеграмм!",
+        "button_link": "https://t.me/shopmania_AI",
+        "custom_button_price": 500,
+        "events": [
+            {
+                "at": "2026-07-05 07:42:41",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-05 07:42:55",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-07 07:30:45",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 12:59:35",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-27 23:04:27",
+                "event": "deleted"
+            }
+        ],
+        "approved_at": "2026-07-05 07:42:55",
+        "updated_at": "2026-07-08 12:59:35",
+        "photo_files": [
+            "photos/ads/admin_order_1783237361_1783504774822_0_5d2632e30f2e6063.jpg"
+        ],
+        "deleted_at": "2026-07-27 23:04:27"
+    },
+    "order_1783282767": {
+        "order_no": 5,
+        "order_code": "6JY5UOV",
+        "type": "new_ad",
+        "status": "rejected",
+        "user_id": 750694024,
+        "text": "идите нахуй",
+        "photo": null,
+        "price": 7800,
+        "days": 365,
+        "rate_name": "365 days",
+        "created_at": "2026-07-05 20:19:27",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo750694024_457239046_0d86cf60faf22cbc6e",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783282763,
+                    "id": 457239046,
+                    "owner_id": 750694024,
+                    "access_key": "0d86cf60faf22cbc6e",
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 160,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 640,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 1024,
+                            "type": "y",
+                            "width": 1024,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=1024x0"
+                        },
+                        {
+                            "height": 108,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 1024,
+                            "type": "base",
+                            "width": 1024,
+                            "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "08fca64a8cc4cb01e4",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 1024,
+                        "type": "base",
+                        "url": "https://sun9-23.vkuserphoto.ru/s/v1/ig2/atJINbz8j4GFI0-P1mUx004bvzLHnXLIj_2rpNnhnG7hGOcoPl29tkcaiDao4VhWLgli6-bm3Rv-ch-4GZ4mRjoF.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu",
+                        "width": 1024
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-05 20:19:27",
+        "mention_all": false,
+        "mention_all_price": 0,
+        "button_title": null,
+        "button_link": null,
+        "custom_button_price": 0,
+        "events": [
+            {
+                "at": "2026-07-05 20:19:27",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-05 20:33:10",
+                "event": "rejected"
+            }
+        ],
+        "rejected_at": "2026-07-05 20:33:10"
+    },
+    "order_1783318734": {
+        "order_no": 6,
+        "order_code": "1YJSITX",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Давно ищите бота для модерации/игр чатов?\nBANANA MANAGER - ваш лучший чат бот!\nЧто у нас есть что нету у других:\n\n• Много игровых команд (можно посмотреть через /игры)\n• /защита - защита от посторонних сообществ(ботов)\n• /antiflood - защита от флуда\n• Модифицированные роли - можете сами создавать свои роли!\n• Много административных функций (Для руководства бота) - /epoints /astats /norma\n• Общее количество команд - 300.\n\nЧтобы добавить бота к себе в чат вам нужно:\n1. Нажать на кнопку перейти в сообщество в данном сообщение.\n2. Подписаться на сообщество чтобы появилась кнопка Добавить в чат!\nПримечание: Пока ожидаете можете зайти в чат Тех. Поддержки или Дуэлей и попробовать бота.\n3. Добавляете бота в свои чаты.\n4. Выдать боту права администратора(звезду)\n5. Прописать /start\n6. Далее можете включать системы/команды (по умолчанию выключены)",
+        "photo": "photo1094157988_457239137_be929d7598b2471ce5",
+        "price": 8400,
+        "days": 365,
+        "rate_name": "365 days",
+        "created_at": "2026-07-06 09:18:54",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo574393629_457242743_ac7a06cf9e6a85fb73",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783318732,
+                    "id": 457242743,
+                    "owner_id": 574393629,
+                    "access_key": "ac7a06cf9e6a85fb73",
+                    "sizes": [
+                        {
+                            "height": 156,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 346,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 1385,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 2337,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 2532,
+                            "type": "z",
+                            "width": 1170,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=1170x0"
+                        },
+                        {
+                            "height": 234,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 519,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 779,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 1169,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 2532,
+                            "type": "base",
+                            "width": 1170,
+                            "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "14f9f198ab7f45c5bb",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 2532,
+                        "type": "base",
+                        "url": "https://sun9-85.vkuserphoto.ru/s/v1/ig2/MZ2cB-uez4DlHKPKx3AR-OjYKae3GXCBHdP4RJhsl1DTqDC1Y6D6Fe4UzQfIidXBTk9QFlv66hAqyFN4hQ_zjzCw.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu",
+                        "width": 1170
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-06 09:18:54",
+        "mention_all": true,
+        "mention_all_price": 100,
+        "button_title": "🌐Перейти в сообщество бота🌐",
+        "button_link": "https://vk.com/bananamanager",
+        "custom_button_price": 500,
+        "events": [
+            {
+                "at": "2026-07-06 09:18:54",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-06 09:19:10",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-07 07:31:31",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 12:59:57",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:15:50",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:17:03",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-27 23:05:30",
+                "event": "deleted"
+            }
+        ],
+        "approved_at": "2026-07-06 09:19:10",
+        "updated_at": "2026-07-08 13:17:03",
+        "photo_files": [
+            "photos/ads/admin_order_1783318734_1783505822783_0_55194f9d3299d243.jpg"
+        ],
+        "deleted_at": "2026-07-27 23:05:30"
+    },
+    "order_1783338209": {
+        "order_no": 7,
+        "order_code": "8FN3V2X",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all ОТКРЫЛСЯ НОВЫЙ ПИАР ЧАТ ДЛЯ РЕКЛАМЫ!!!\nЧтобы войти достаточно нажать на кнопку снизу!\n👇🏻👇🏻👇🏻",
+        "photo": "photo1094157988_457239138_7fd2a5aa2704143a18",
+        "price": 8400,
+        "days": 365,
+        "rate_name": "365 days",
+        "created_at": "2026-07-06 14:43:29",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo574393629_457242752_aebb5ab8d8db9bdd84",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783338205,
+                    "id": 457242752,
+                    "owner_id": 574393629,
+                    "access_key": "aebb5ab8d8db9bdd84",
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 160,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 640,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 700,
+                            "type": "y",
+                            "width": 700,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=700x0"
+                        },
+                        {
+                            "height": 108,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 700,
+                            "type": "base",
+                            "width": 700,
+                            "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "3e17a3377e3d472322",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 700,
+                        "type": "base",
+                        "url": "https://sun9-17.userapi.com/s/v1/ig2/g8pLwgFDAWkRzR7cnBt9Rm4Y8ss9AvAWMtpMg19_tTf65M3TdMaftWa4-UXze8HRzwJDze__gHbaRXU6RYeQPvjQ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,700x700&from=bu",
+                        "width": 700
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-06 14:43:29",
+        "mention_all": true,
+        "mention_all_price": 100,
+        "button_title": "✅Присоединиться в чат!✅",
+        "button_link": "https://vk.me/join/nzw4n8GbfRafzFQEOo4I0kGdHkqxf0f14PY=",
+        "custom_button_price": 500,
+        "events": [
+            {
+                "at": "2026-07-06 14:43:29",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-06 14:43:38",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-07 07:32:11",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:00:37",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:16:03",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:17:40",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-27 23:05:57",
+                "event": "deleted"
+            }
+        ],
+        "approved_at": "2026-07-06 14:43:38",
+        "updated_at": "2026-07-08 13:17:40",
+        "photo_files": [
+            "photos/ads/admin_order_1783338209_1783505860008_0_d4be7b4c49f80a77.jpg"
+        ],
+        "deleted_at": "2026-07-27 23:05:57"
+    },
+    "order_1783402933": {
+        "order_no": 8,
+        "order_code": "4VCPFFU",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 192607249,
+        "text": "❗️❗️❗️Ведется  набор операторов БПЛА  ❗️❗️❗️\n\nПринимаем из любых регионов России. Контракт с Министерством Обороны!!!\n\n✅ Можно без военного билета.\n✅Делаем отношение.\n✅Отпуск через 6 месяцев 14 календарных дней\n✅Сопровождение куратора на всех этапах оформления.\n✅Списание кредитов до 10 млн, так же кредитные каникулы.\n✅Денежное довольствие от 210 000 тыс. рублей за календарный месяц (зависит от должности и звания)\n✅Статус ветерана боевых действий\n✅Льготы семьям военнослужащих\n✅Рассматриваем сложные случаи\n\n👉Возраст приёма на службу от 18 до 65лет.\n⚠️Принимаем иностранцев.\n⚠️ Рассматриваем с гепатитом Б,С\n⚠️ Нарк и псих учёты\n⚠️С судимостью.\n⚠️Группы здоровья А, Б, В.\n\n📌Ведём набор по всей стране, отправка из Москвы и МО (Покупаем билет, оплачиваем проживание и питание)\n\n💡 Информацию вы можете уточнить по номеру телефона:\n\n☎️  +79826676852\n✍️Писать @part_noi (Telegram)\n ✍️Написать вк Дмитрий \n\n🇷🇺Пока другие думают — ты уже в деле!",
+        "photo": "photo1094157988_457239139_392e331b63c939600d",
+        "price": 900,
+        "days": 30,
+        "rate_name": "месяц",
+        "created_at": "2026-07-07 08:42:13",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo192607249_457244161_d3c8b6a1fffab40994",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783402920,
+                    "id": 457244161,
+                    "owner_id": 192607249,
+                    "access_key": "d3c8b6a1fffab40994",
+                    "sizes": [
+                        {
+                            "height": 160,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 356,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 1422,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 2400,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 2400,
+                            "type": "z",
+                            "width": 1080,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 533,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 800,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 1200,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 2400,
+                            "type": "base",
+                            "width": 1080,
+                            "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "1b437e9e9b4d4c0d32",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 2400,
+                        "type": "base",
+                        "url": "https://sun9-46.vkuserphoto.ru/s/v1/ig2/ADJycgK_tgMBLOe5sttv6vAIgVulr3ncerkdlLESIxpC-E4Sf1LThmIjUIZJdzgxs4gxqsM_s0L4iLpVZ2YeuW3S.jpg?quality=95&as=32x71,48x107,72x160,108x240,160x356,240x533,360x800,480x1067,540x1200,640x1422,720x1600,1080x2400&from=bu",
+                        "width": 1080
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-07 08:42:13",
+        "mention_all": false,
+        "mention_all_price": 0,
+        "button_title": null,
+        "button_link": null,
+        "custom_button_price": 0,
+        "events": [
+            {
+                "at": "2026-07-07 08:42:13",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-07 08:59:30",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-08 13:01:09",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:15:19",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 13:16:28",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-08 17:09:02",
+                "event": "safety_blocked",
+                "from_status": "approved",
+                "reason": "Материал содержит признаки рекламы набора/оформления на военную службу, участия в боевых действиях или работы с БПЛА/FPV/дронами в военном контексте."
+            }
+        ],
+        "approved_at": "2026-07-07 08:59:30",
+        "photo_files": [
+            "photos/ads/admin_order_1783402933_1783505788250_0_98c07faeffe86e6b.jpg"
+        ],
+        "updated_at": "2026-07-08 17:09:02",
+        "moderation_reason": "Материал содержит признаки рекламы набора/оформления на военную службу, участия в боевых действиях или работы с БПЛА/FPV/дронами в военном контексте.",
+        "moderation_policy": "Запрет рекламы набора на военную службу, в бой, БПЛА/FPV и сомнительные вооруженные формирования",
+        "moderation_legal_basis": "Правовое основание отказа:\n• ст. 34 Федерального закона от 28.03.1998 N 53-ФЗ: военная служба по контракту оформляется в установленном законом порядке;\n• ст. 3, 5, 7, 18, 38 Федерального закона от 13.03.2006 N 38-ФЗ «О рекламе»: требования к рекламе, запреты и ответственность рекламодателя/рекламораспространителя;\n• ст. 10 Федерального закона от 27.07.2006 N 149-ФЗ: запрещено распространять информацию, за которую предусмотрена уголовная или административная ответственность;\n• ст. 14.3 КоАП РФ: ответственность за нарушение законодательства о рекламе;\n• ст. 208 УК РФ: ответственность за незаконные вооруженные формирования;\n• ст. 359 УК РФ: ответственность за вербовку/обеспечение наемников;\n• ст. 15, 393, 401, 1064 ГК РФ: убытки, вина и гражданско-правовая ответственность.",
+        "deleted_at": "2026-07-08 17:09:02",
+        "safety_notice_sent_at": "2026-07-08 17:09:02"
+    },
+    "order_1783581785": {
+        "order_no": 9,
+        "order_code": "IWMGO7F",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 280302669,
+        "text": "⚠️Продление АКЦИИ до конца Июля ⚠️ +5000₽ Дополнительно. Вся суть 👇\n\nНужны люди на \nОформление улучшенной самозанятости\nПолностью легально — официальная реферальная программа Альфа-Банка.\nНПД = нет налогов и страховых взносов (вы ничего не платите).❗️❗️❗️\n\n«Уже есть она ? Это не проблема! Пиши в лс дам инструкцию для заработка до 20к»\n\n➕Платим тебе 2.500₽ за каждого друга которого ты пригласишь к нам \n\nСуть:\nВы открываете улучшенную самозанятость через Т-Банк, и счёт через Альфу, банк платит бонус вам и мне — как партнёру.\n\nКак проходит:⁉️\n— Заявка онлайн: 10–20 минут\n— Встреча с курьером, получение карты: 10–20 минут\n\nЧто получаете:\n💰 4 000 – 10 000 ₽ бонусами, которые сразу меняются на рубли🔥\n💰 +5.000 ₽ дополнительно если успеваете открыть счёт до конца акции 🔥\n💰 +2.500 ₽ за т-банк от нас 🔥\n💰 1.100 ₽ Дополнительно от нас ещё за альфу 🔥\n\nВажно:\n✅— Всё официально, не «схема»\n✅— Я не имею доступа к вашим счетам\n✅— Долги, аресты и старые карты и 115фз  — не помеха\n✅— Ничего покупать/продавать не нужно\n✅— Отзывы о работе с нами тут: ТЫК \n\n❗️После можно оформить бизнес-карты в других банках и получить до 20 000 ₽ 💰по тем же реферальным программам. \n\n📩 Для быстрого ответа Пишите в ЛС ТГ 👉 https://t.me/m/Wuy2i0NBYzgy\n\nесли тг не грузить - писать сюда все сообщение https://vk.com/alpha220\n\nТак же для тех у кого уже есть ип: для вас есть подработка: работы на 5-10 мин - вам +1000 руб \nПисать сюда 👉 https://t.me/m/_KugZY5pMjNi\n\n➕ Ещё есть 3 Задание за которые ты сможешь заработать 3000₽ уже сегодня за 30-40 мин, Пиши сюда https://t.me/m/tFlWy_8CNTMy",
+        "photo": "photo280302669_457259576_570718126e66d78539",
+        "photo_files": [
+            "photos/ads/user_280302669_1783581681401_0_6e3ad8f1279862a5.jpg"
+        ],
+        "price": 300,
+        "days": 7,
+        "rate_name": "1 неделя",
+        "created_at": "2026-07-09 10:23:05",
+        "attachment": {
+            "type": "photo",
+            "vk_attachment": "photo280302669_457259577_bc287b19a592d35fa4",
+            "payload": {
+                "type": "photo",
+                "photo": {
+                    "album_id": -3,
+                    "date": 1783581781,
+                    "id": 457259577,
+                    "owner_id": 280302669,
+                    "access_key": "bc287b19a592d35fa4",
+                    "sizes": [
+                        {
+                            "height": 156,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 346,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 1385,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 2337,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 2532,
+                            "type": "z",
+                            "width": 1170,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=1170x0"
+                        },
+                        {
+                            "height": 234,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 519,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 779,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 1169,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 2532,
+                            "type": "base",
+                            "width": 1170,
+                            "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "web_view_token": "3ca4dedc0f59d55888",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 2532,
+                        "type": "base",
+                        "url": "https://sun9-58.vkuserphoto.ru/s/v1/ig2/TGPwlRzt2JGjTZlM-IkgnKqfCqELnDdcRb6ryWFpzMgwnV5od6THnxNqJj6lWsq9ViLStPDUPkdmznmYQLlf1Rh_.jpg?quality=95&as=32x69,48x104,72x156,108x234,160x346,240x519,360x779,480x1039,540x1169,640x1385,720x1558,1080x2337,1170x2532&from=bu",
+                        "width": 1170
+                    }
+                }
+            }
+        },
+        "attachment_received": "2026-07-09 10:23:05",
+        "mention_all": false,
+        "mention_all_price": 0,
+        "button_title": null,
+        "button_link": null,
+        "custom_button_price": 0,
+        "events": [
+            {
+                "at": "2026-07-09 10:23:05",
+                "event": "created"
+            },
+            {
+                "at": "2026-07-09 10:27:29",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-16 10:27:41",
+                "event": "expired"
+            }
+        ],
+        "approved_at": "2026-07-09 10:27:29",
+        "deleted_at": "2026-07-16 10:27:41"
+    },
+    "order_1783581786": {
+        "order_no": 10,
+        "order_code": "8TUMWT1",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 783119923,
+        "text": "!копируем ссылку вставляем в браузер вводим промокод который ниже 🔥\n  Если не заходит то через vpn\n  (На спорт фрибет на слоты фриспины)\n  \n  👇 Перейди по ссылке \nhttps://one-vv7739.com/?open=register&p=5tuo\n  ❗Зарегистрируйся❗\n  ⚡ Введи промокод 🔥VHQ300 🔥\n  ⚡ Пополни любую сумму ⚡\n  ⚡ Получи приветственный бонус до 500 % на первый депозит ⚡\n  ⚡ А так же 70 фриспинов ⚡\n  ⚡ До 50% кэшбэка ⚡\n  \n  Подробнее с бонусной программой вы можете ознакомиться на сайте БК в разделе \"Бонусы и Акции\".",
+        "photo": "photo1094157988_457239140_1b937e9ac79f8fe9de",
+        "photo_files": [
+            "photos/ads/direct_783119923_1783659636215_0_11e65135ed80faab.jpg"
+        ],
+        "price": 0,
+        "days": 14,
+        "rate_name": "14 дн.",
+        "created_at": "2026-07-10 08:00:36",
+        "approved_at": "2026-07-10 08:00:36",
+        "approved_by": 1094157988,
+        "events": [
+            {
+                "at": "2026-07-10 08:00:36",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-07-10 08:00:36",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-24 08:01:31",
+                "event": "expired"
+            }
+        ],
+        "deleted_at": "2026-07-24 08:01:31"
+    },
+    "order_1783581787": {
+        "order_no": 11,
+        "order_code": "00KBN50",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 1094157988,
+        "text": "Банк ВТБ ищет своих пользователей.\nТолько сейчас работает Программа - Регистрируйся и получи дополнительно награду в виде НАСТОЯЩИХ ДЕНЕГ.\nДебетовая карта для жизни - https://vtb.ru/l/attbb4x7 - За оформление получите 1.000₽\nЗарплатная карта - https://vtb.ru/l/t6p4bb52   - За оформление получите Кэшбек 5% на рестораны и кафе (постоянно)\nКредитная «Карта возможности» - https://vtb.ru/l/17ah1mk8 - За оформление получите 1.000₽\nНакопительный ВТБ-Счет - https://vtb.ru/l/6c11p6m4 - За оформление получите 2.000₽\nМолодежная карта (до 18 лет)- https://vtb.ru/l/64a8h46h - За оформление получите 1.000₽\nПолучение пенсии в ВТБ - https://vtb.ru/l/xa5k5xeh - За оформление получите 1.000₽\nВыберите сами свой продукт в ВТБ - https://vtb.ru/l/b8c48teb - За оформление получите 2.000₽\n\nЕсли у вас появились вопросы можете написать Менеджеру: [id574393629|@makswwy]\nВсю информацию об условиях программы можете узнать перейдя по ссылке, если вы не выполните условие, награда не будет получена.",
+        "photo": "photo574393629_457242884_3d5aa25c72cd9bdab6",
+        "photo_files": [
+            "photos/ads/direct_1094157988_1785183834722_0_3188b601e9134472.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-07-27 23:23:55",
+        "approved_at": "2026-07-27 23:23:55",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-07-27 23:23:55",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-07-27 23:23:55",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-27 23:50:20",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-04 15:02:46",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-07-27 23:50:20",
+        "deleted_at": "2026-08-04 15:02:46"
+    },
+    "order_1783581788": {
+        "order_no": 12,
+        "order_code": "P8I6O20",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Открылся новый чат с поиском работы/рабочих\nИщем работодателей по всей стране, более 750 человек по всей стране уже в нашем чате ищут работу! \nБЫСТРЕЕ УСПЕЙ ПОДАТЬ СВОЮ ЗАЯВКУ!\nБот автоматически находит заявки и скидывает их в чат!!!",
+        "photo": "photo574393629_457242894_36e95df8578ed54f5a",
+        "photo_files": [
+            "photos/ads/direct_574393629_1785234650318_0_a7bde5fa10813188.jpg"
+        ],
+        "price": 0,
+        "days": 360,
+        "rate_name": "30 дн.",
+        "created_at": "2026-07-28 13:30:50",
+        "approved_at": "2026-07-28 13:30:50",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-07-28 13:30:50",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-07-28 13:30:50",
+                "event": "approved"
+            },
+            {
+                "at": "2026-07-28 13:31:54",
+                "event": "updated"
+            },
+            {
+                "at": "2026-07-29 23:11:01",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-01 23:14:24",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-04 19:40:20",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-07 07:36:14",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-26 13:15:03",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-26 13:15:28",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-27 13:31:25",
+                "event": "expired"
+            }
+        ],
+        "button_title": "Присоединиться в чат!",
+        "button_link": "https://vk.me/join/3zqMOfkn01KYXy2cKXHRlrBUhPLnurRx1_0=",
+        "updated_at": "2026-08-26 13:15:28",
+        "deleted_at": "2026-08-27 13:31:25"
+    },
+    "order_1783581789": {
+        "order_no": 13,
+        "order_code": "ZICZCRP",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Надёжный VPN без сложных настроек — VLESSHUB VPN\n\nСтабильное подключение, безлимитный трафик и несколько режимов для разных задач. Для подключения используется удобное приложение HAPP, доступное на iOS, Android и Windows.\n\nВыберите подходящий режим: UNI — обычный VPN и обход ограничений, BASE — стандартное подключение, WHITE — отдельный режим для мобильного интернета.\n\nПодписка доступна для 1, 3, 6 или 9 устройств. Стоимость — от 140 ₽ в месяц, а перед покупкой можно бесплатно активировать пробный период.\n\nПопробовать VLESSHUB VPN:\nНажмите - Подключить ВПН!\nПодключайтесь сейчас, пока действуют выгодные тарифы!",
+        "photo": "photo574393629_457242987_ac24d3b892fecd583c",
+        "photo_files": [
+            "photos/ads/direct_574393629_1785845608731_0_38598233dc7972e2.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-04 15:13:29",
+        "approved_at": "2026-08-04 15:13:29",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-04 15:13:29",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-04 15:13:29",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-04 15:14:43",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-04 19:35:05",
+                "event": "broadcast_paused",
+                "by": 574393629
+            },
+            {
+                "at": "2026-09-03 15:13:36",
+                "event": "expired"
+            }
+        ],
+        "button_title": "Подключить ВПН!",
+        "button_link": "https://vlesshub.fun/?ref=ref9a26438b40",
+        "updated_at": "2026-08-04 19:35:05",
+        "broadcast_paused": true,
+        "deleted_at": "2026-09-03 15:13:36"
+    },
+    "order_1783581790": {
+        "order_no": 14,
+        "order_code": "6OO057Z",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Требуются Транспортировщик-комплектовщик на производство!\nЧтобы узнать подробнее об вакансии нажмите - Посмотреть вакансию",
+        "photo": "photo574393629_457243001_820477840a4607be8a",
+        "photo_files": [
+            "photos/ads/direct_574393629_1786008826278_0_6246fe19ebefdc06.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-06 12:33:46",
+        "approved_at": "2026-08-06 12:33:46",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-06 12:33:46",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-06 12:33:46",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-06 12:34:23",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-06 14:13:35",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:48:53",
+                "event": "deleted"
+            }
+        ],
+        "button_title": "Посмотреть вакансию!",
+        "button_link": "https://vk.me/club240511655?ref=job_2",
+        "updated_at": "2026-08-06 14:13:35",
+        "deleted_at": "2026-08-08 12:48:53"
+    },
+    "order_1783581791": {
+        "order_no": 15,
+        "order_code": "LLEZOVH",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуется стропальщик на производство!\nЧтобы узнать подробную информацию - Нажмите Посмотреть вакансию",
+        "photo": "photo574393629_457243002_ed56955b4a876b705e",
+        "photo_files": [
+            "photos/ads/admin_order_1783581791_1786014461214_0_d79bd2648355b1fb.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-06 14:07:19",
+        "approved_at": "2026-08-06 14:07:19",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-06 14:07:19",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-06 14:07:19",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-06 14:07:41",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-06 14:07:55",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:49:55",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-06 14:07:55",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_3",
+        "deleted_at": "2026-08-08 12:49:55"
+    },
+    "order_1783581792": {
+        "order_no": 16,
+        "order_code": "WLP1DKN",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются Водители погрузчика на крупное производство!\nЧтобы посмотреть вакансию нажмите - Посмотреть вакансию",
+        "photo": "photo574393629_457243003_f4dd1532d7df4bfee9",
+        "photo_files": [
+            "photos/ads/direct_574393629_1786014651663_0_c30bda37c1a79643.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-06 14:10:52",
+        "approved_at": "2026-08-06 14:10:52",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-06 14:10:52",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-06 14:10:52",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-06 14:11:19",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:50:48",
+                "event": "deleted"
+            }
+        ],
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_4",
+        "updated_at": "2026-08-06 14:11:19",
+        "deleted_at": "2026-08-08 12:50:48"
+    },
+    "order_1783581793": {
+        "order_no": 17,
+        "order_code": "D7RFF82",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Требуются механизаторы на сельхозтехнику!\nЧтобы узнать больше информации об вакансии нажмите - Посмотреть вакансию",
+        "photo": "photo574393629_457243005_25fe422733ee56636b",
+        "photo_files": [
+            "photos/ads/admin_order_1783581793_1786015072166_0_2d6bbdf80e843b4f.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-06 14:17:25",
+        "approved_at": "2026-08-06 14:17:25",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-06 14:17:25",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-06 14:17:25",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-06 14:17:52",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-06 14:18:04",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:51:10",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-06 14:18:04",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_5",
+        "deleted_at": "2026-08-08 12:51:10"
+    },
+    "order_1783581794": {
+        "order_no": 18,
+        "order_code": "K8MHLAI",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются Дояр/Доярка на производство!\nЧтобы узнать подробнее об вакансии нажмите - Показать вакансию",
+        "photo": "photo574393629_457243006_c605e2a23dd110be60",
+        "photo_files": [
+            "photos/ads/admin_order_1783581794_1786020180602_0_4884d94b781bbf89.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-06 15:42:38",
+        "approved_at": "2026-08-06 15:42:38",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-06 15:42:38",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-06 15:42:38",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-06 15:43:01",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-06 15:43:13",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:49:09",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-06 15:43:13",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_6",
+        "deleted_at": "2026-08-08 12:49:09"
+    },
+    "order_1783581795": {
+        "order_no": 19,
+        "order_code": "5R40IVX",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуется механизатора категории F!\nЧтобы узнать подробности об вакансии нажмите - Посмотреть вакансию",
+        "photo": "photo574393629_457243008_755f1997b020b9ec3d",
+        "photo_files": [
+            "photos/ads/direct_574393629_1786020350226_0_9dec75dcc37728ad.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-06 15:45:50",
+        "approved_at": "2026-08-06 15:45:50",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-06 15:45:50",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-06 15:45:50",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-06 15:46:14",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:49:30",
+                "event": "deleted"
+            }
+        ],
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_7",
+        "updated_at": "2026-08-06 15:46:14",
+        "deleted_at": "2026-08-08 12:49:30"
+    },
+    "order_1783581796": {
+        "order_no": 20,
+        "order_code": "Z6O2KA8",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются механизаторы на производство БИО-ТОН вахтовым способом!\nЧтобы узнать подробности об вакансии нажмите - Посмотреть вакансию",
+        "photo": "photo574393629_457243007_7de432536a6dfc838f",
+        "photo_files": [
+            "photos/ads/admin_order_1783581796_1786076470328_0_5b6746a459920176.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:20:45",
+        "approved_at": "2026-08-07 07:20:45",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:20:45",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:20:45",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:21:10",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-07 07:21:22",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:50:27",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-07 07:21:22",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_8",
+        "deleted_at": "2026-08-08 12:50:27"
+    },
+    "order_1783581797": {
+        "order_no": 21,
+        "order_code": "X9CXNVD",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются наладяики технологического оборудования на автомобильный завод Хавал в Тульской области!\nЧтобы узнать подробнее об вакансии нажмите - Посмотреть вакансию",
+        "photo": "photo574393629_457243009_a2e6fca4225112d592",
+        "photo_files": [
+            "photos/ads/direct_574393629_1786076627081_0_5b03c135e6bf4d51.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:23:47",
+        "approved_at": "2026-08-07 07:23:47",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:23:47",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:23:47",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:24:13",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:50:08",
+                "event": "deleted"
+            }
+        ],
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_9",
+        "updated_at": "2026-08-07 07:24:13",
+        "deleted_at": "2026-08-08 12:50:08"
+    },
+    "order_1783581798": {
+        "order_no": 22,
+        "order_code": "BK4881O",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются электрогазосварщики на производство автомобилей Хавал в Тульской области!\nЧтобы узнать подробнее об вакансии нажмите на кнопку - Посмотреть вакансию",
+        "photo": "photo574393629_457243010_c33a5ec1273a5863b9",
+        "photo_files": [
+            "photos/ads/admin_order_1783581798_1786077053365_0_179d2428d84bbbb1.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:30:13",
+        "approved_at": "2026-08-07 07:30:13",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:30:13",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:30:13",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:30:53",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-07 07:31:04",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:47:17",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-07 07:31:04",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_10",
+        "deleted_at": "2026-08-08 12:47:17"
+    },
+    "order_1783581799": {
+        "order_no": 23,
+        "order_code": "TYADKWR",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются водители погрузчиков на производство автомобилей Хавал в Тульскую область!\nЧтобы узнать подробнее об вакансии нажмите на кнопку - Посмотреть вакансию",
+        "photo": "photo574393629_457243011_c660c7f4c3047690a0",
+        "photo_files": [
+            "photos/ads/direct_574393629_1786077217861_0_c9b5a21d8a77900f.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:33:38",
+        "approved_at": "2026-08-07 07:33:38",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:33:38",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:33:38",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:33:58",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:46:58",
+                "event": "deleted"
+            }
+        ],
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_11",
+        "updated_at": "2026-08-07 07:33:58",
+        "deleted_at": "2026-08-08 12:46:58"
+    },
+    "order_1783581800": {
+        "order_no": 24,
+        "order_code": "6I1F5XA",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются операторы производственной линии на завод Хавал в Тульской области!\nЧтобы подробнее узнать об вакансии нажмите кнопку - Посмотреть вакансию",
+        "photo": "photo574393629_457243012_40a21a41fed7722da9",
+        "photo_files": [
+            "photos/ads/admin_order_1783581800_1786077581512_0_e081e41b6b910d8c.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:38:58",
+        "approved_at": "2026-08-07 07:38:58",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:38:58",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:38:58",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:39:42",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-07 07:39:53",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:46:42",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-07 07:39:53",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_12",
+        "deleted_at": "2026-08-08 12:46:42"
+    },
+    "order_1783581801": {
+        "order_no": 25,
+        "order_code": "OKM48OJ",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуются МЕСТНО Сотрудники торгового зала на крупный строительный склад.\n3 мужчины Местно - ночь!\nЧтобы узнать подробности об работе нажмите кнопку - Посмотреть вакансию",
+        "photo": "photo574393629_457242993_147b62c0fd84d3e4bd",
+        "photo_files": [
+            "photos/ads/admin_order_1783581801_1786078263738_0_5b353cf3bffcbc1f.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:50:45",
+        "approved_at": "2026-08-07 07:50:45",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:50:45",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:50:45",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:51:04",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-07 07:51:24",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:46:23",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-07 07:51:24",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_14",
+        "deleted_at": "2026-08-08 12:46:23"
+    },
+    "order_1783581802": {
+        "order_no": 26,
+        "order_code": "HK33JGN",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "Требуется МЕСТНО 1 водитель дизельного погрузчика с правами тракториста-машиниста кат. BC обязательно!\nМосковская область, г.Пушкино\nЧтобы узнать подробнее об вакансии нажмите кнопку - Посмотреть вакансию",
+        "photo": "photo574393629_457242994_3c911f6b605b67f0cf",
+        "photo_files": [
+            "photos/ads/admin_order_1783581802_1786078580341_0_088352087ed6f93c.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-07 07:55:59",
+        "approved_at": "2026-08-07 07:55:59",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-07 07:55:59",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-07 07:55:59",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-07 07:56:20",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-07 07:56:31",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-08 12:46:08",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-07 07:56:31",
+        "button_title": "Посмотреть вакансию",
+        "button_link": "https://vk.me/club240511655?ref=job_15",
+        "deleted_at": "2026-08-08 12:46:08"
+    },
+    "order_1783581803": {
+        "order_no": 27,
+        "order_code": "J87TXKP",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 1094157988,
+        "text": "Банк ВТБ ищет своих пользователей.\nТолько сейчас работает Программа - Регистрируйся и получи дополнительно награду в виде НАСТОЯЩИХ ДЕНЕГ.\nДебетовая карта для жизни - https://vtb.ru/l/attbb4x7 - За оформление получите 1.000₽\nЗарплатная карта - https://vtb.ru/l/t6p4bb52   - За оформление получите Кэшбек 5% на рестораны и кафе (постоянно)\nКредитная «Карта возможности» - https://vtb.ru/l/17ah1mk8 - За оформление получите 1.000₽\nНакопительный ВТБ-Счет - https://vtb.ru/l/6c11p6m4 - За оформление получите 2.000₽\nМолодежная карта (до 18 лет)- https://vtb.ru/l/64a8h46h - За оформление получите 1.000₽\nПолучение пенсии в ВТБ - https://vtb.ru/l/xa5k5xeh - За оформление получите 1.000₽\nВыберите сами свой продукт в ВТБ - https://vtb.ru/l/b8c48teb - За оформление получите 2.000₽",
+        "photo": "photo574393629_457243077_aa4e2342778c60eeb9",
+        "photo_files": [
+            "photos/ads/direct_1094157988_1786643919818_0_a099227c553a1815.jpg"
+        ],
+        "price": 0,
+        "days": 30,
+        "rate_name": "30 дн.",
+        "created_at": "2026-08-13 20:58:40",
+        "approved_at": "2026-08-13 20:58:40",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-13 20:58:40",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-13 20:58:40",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-13 20:59:33",
+                "event": "updated"
+            },
+            {
+                "at": "2026-08-21 23:31:32",
+                "event": "deleted"
+            }
+        ],
+        "updated_at": "2026-08-13 20:59:33",
+        "deleted_at": "2026-08-21 23:31:32"
+    },
+    "order_1783581804": {
+        "order_no": 28,
+        "order_code": "ZPSCD3L",
+        "type": "new_ad",
+        "status": "approved",
+        "user_id": 574393629,
+        "text": "@all Открылся новый чат с поиском работы/рабочих\nИщем работодателей по всей стране, более 750 человек по всей стране уже в нашем чате ищут работу! \nБЫСТРЕЕ УСПЕЙ ПОДАТЬ СВОЮ ЗАЯВКУ!\nБот автоматически находит заявки и скидывает их в чат!!!",
+        "photo": "photo574393629_457243108_0076e4ae9eebdd8ab1",
+        "photo_files": [
+            "photos/ads/direct_574393629_1787862288508_0_2136b38f1c4d671b.jpg"
+        ],
+        "price": 0,
+        "days": 365,
+        "rate_name": "365 дн.",
+        "created_at": "2026-08-27 23:24:48",
+        "approved_at": "2026-08-27 23:24:48",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-08-27 23:24:48",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-08-27 23:24:48",
+                "event": "approved"
+            },
+            {
+                "at": "2026-08-27 23:26:01",
+                "event": "updated"
+            }
+        ],
+        "button_title": "Присоединиться в чат!",
+        "button_link": "https://vk.me/join/3zqMOfkn01KYXy2cKXHRlrBUhPLnurRx1_0=",
+        "updated_at": "2026-08-27 23:26:01"
+    },
+    "order_1783581805": {
+        "order_no": 29,
+        "order_code": "DLVDUXC",
+        "type": "new_ad",
+        "status": "approved",
+        "user_id": 574393629,
+        "text": "@all 🔧 НУЖНА ПОДРАБОТКА ИЛИ ИСПОЛНИТЕЛИ?\n\nСеть чатов по всей России:\n🏙 60+ городов\n👥 70 000+ участников\n\nЗдесь встречаются:\n📌 Диспетчеры — размещают заявки и находят исполнителей\n📌 Грузчики и разнорабочие — берут заказы и зарабатывают\n\n📦 Переезды\n🚚 Погрузка и разгрузка\n🏗 Подсобные работы\n🔨 Разовые подработки\n\n💰 Оплата сразу после выполнения\n\nЖми - Присоединиться в чат!\nВАЖНО: Переход в Телеграмм - нужен включенный VPN",
+        "photo": "photo574393629_457243171_e27212fa8f144f2241",
+        "photo_files": [
+            "photos/ads/direct_574393629_1789058733855_0_bd987f73653819ee.jpg"
+        ],
+        "price": 0,
+        "days": 365,
+        "rate_name": "365 дн.",
+        "created_at": "2026-09-10 19:45:34",
+        "approved_at": "2026-09-10 19:45:34",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-09-10 19:45:34",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-09-10 19:45:34",
+                "event": "approved"
+            },
+            {
+                "at": "2026-09-10 19:46:09",
+                "event": "updated"
+            },
+            {
+                "at": "2026-09-11 10:16:46",
+                "event": "updated"
+            }
+        ],
+        "button_title": "Присоединиться в чат!",
+        "button_link": "https://t.me/+4sR9GjjqT9ZkNjcy",
+        "updated_at": "2026-09-11 10:16:46"
+    },
+    "order_1783581806": {
+        "order_no": 30,
+        "order_code": "O0086AE",
+        "type": "new_ad",
+        "status": "deleted",
+        "user_id": 574393629,
+        "text": "@all Занимаюсь версткой сайтов/приложений\nСозданием ботов.\nЯзыки программирования: Python, JavaScript, C++, C#, HTML, PHP.\nПлатформы: Android(APK), iOS(Swift), Windows/Linux(Desktop)\nОфициальное сообщество подтвержденное VK Business: https://vk.ru/club242251999\nЕсли не отвечаю - Писать в лс [id574393629|@makswwy]",
+        "photo": "photo574393629_457243427_601c3b99a139a93d28,photo574393629_457243431_1c8f88ef1a8fc7bf86,photo574393629_457243429_8e7484f7fef2583167,photo574393629_457243430_4695b3188632d3d09c,photo574393629_457243428_8bd387001e6691d91c",
+        "photo_files": [
+            "photos/ads/admin_order_1783581806_1791881891781_0_64c09c06321181b9.jpg",
+            "photos/ads/admin_order_1783581806_1791881938843_0_cfa10ad8084e13ae.jpg",
+            "photos/ads/admin_order_1783581806_1791881950652_0_b954c84f7c2c66f2.jpg",
+            "photos/ads/admin_order_1783581806_1791881960680_0_d1db81b34f6b92d1.jpg",
+            "photos/ads/admin_order_1783581806_1791881968662_0_63d8f21d32a2ba67.jpg"
+        ],
+        "price": 0,
+        "days": 365,
+        "rate_name": "365 дн.",
+        "created_at": "2026-10-11 11:04:43",
+        "approved_at": "2026-10-11 11:04:43",
+        "approved_by": 574393629,
+        "events": [
+            {
+                "at": "2026-10-11 11:04:43",
+                "event": "created_by_admin"
+            },
+            {
+                "at": "2026-10-11 11:04:43",
+                "event": "approved"
+            },
+            {
+                "at": "2026-10-11 11:05:37",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-11 11:16:35",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-11 11:16:58",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:50:19",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:51:24",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:58:12",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:58:59",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:59:11",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:59:21",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 11:59:29",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-13 12:12:25",
+                "event": "updated"
+            },
+            {
+                "at": "2026-10-14 12:06:56",
+                "event": "deleted"
+            }
+        ],
+        "button_title": "Написать мне!",
+        "button_link": "https://vk.ru/makswwy",
+        "updated_at": "2026-10-13 12:12:25",
+        "deleted_at": "2026-10-14 12:06:56"
+    }
+}

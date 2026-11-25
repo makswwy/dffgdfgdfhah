@@ -1,0 +1,17 @@
+{
+    "next_id": 3,
+    "items": [
+        {
+            "id": 1,
+            "name": "ОКС",
+            "created_at": "2026-08-06 07:13:43",
+            "created_by": 574393629
+        },
+        {
+            "id": 2,
+            "name": "Lerteco",
+            "created_at": "2026-08-06 07:14:48",
+            "created_by": 574393629
+        }
+    ]
+}

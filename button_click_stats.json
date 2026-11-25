@@ -1,0 +1,4426 @@
+{
+    "version": 1,
+    "events": [
+        {
+            "ts": 1790314482.7706318,
+            "time": "2026-09-25 08:34:42",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000462,
+            "user_id": 507528573
+        },
+        {
+            "ts": 1790315943.0124135,
+            "time": "2026-09-25 08:59:03",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 870471549
+        },
+        {
+            "ts": 1790317461.373033,
+            "time": "2026-09-25 09:24:21",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000006,
+            "user_id": 1078977762
+        },
+        {
+            "ts": 1790318040.856698,
+            "time": "2026-09-25 09:34:00",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000475,
+            "user_id": 182241069
+        },
+        {
+            "ts": 1790318186.1618068,
+            "time": "2026-09-25 09:36:26",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000140,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790319272.7046294,
+            "time": "2026-09-25 09:54:32",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000333,
+            "user_id": 823210976
+        },
+        {
+            "ts": 1790320850.0173347,
+            "time": "2026-09-25 10:20:50",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000720,
+            "user_id": 587997079
+        },
+        {
+            "ts": 1790322195.1668563,
+            "time": "2026-09-25 10:43:15",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000720,
+            "user_id": 713863303
+        },
+        {
+            "ts": 1790322309.0659595,
+            "time": "2026-09-25 10:45:09",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000720,
+            "user_id": 713863303
+        },
+        {
+            "ts": 1790327046.399194,
+            "time": "2026-09-25 12:04:06",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000210,
+            "user_id": 1117294452
+        },
+        {
+            "ts": 1790327516.48788,
+            "time": "2026-09-25 12:11:56",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000025,
+            "user_id": 561460187
+        },
+        {
+            "ts": 1790327636.7358596,
+            "time": "2026-09-25 12:13:56",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1064142278
+        },
+        {
+            "ts": 1790331824.8376796,
+            "time": "2026-09-25 13:23:44",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000024,
+            "user_id": 875056542
+        },
+        {
+            "ts": 1790331840.6766825,
+            "time": "2026-09-25 13:24:00",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 875056542
+        },
+        {
+            "ts": 1790333159.464231,
+            "time": "2026-09-25 13:45:59",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000329,
+            "user_id": 546252308
+        },
+        {
+            "ts": 1790336157.5434458,
+            "time": "2026-09-25 14:35:57",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 10705322
+        },
+        {
+            "ts": 1790338227.1945622,
+            "time": "2026-09-25 15:10:27",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000140,
+            "user_id": 584322629
+        },
+        {
+            "ts": 1790338494.3431575,
+            "time": "2026-09-25 15:14:54",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 872557370
+        },
+        {
+            "ts": 1790338603.1752255,
+            "time": "2026-09-25 15:16:43",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000631,
+            "user_id": 605295364
+        },
+        {
+            "ts": 1790338644.7795036,
+            "time": "2026-09-25 15:17:24",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 872557370
+        },
+        {
+            "ts": 1790339986.799597,
+            "time": "2026-09-25 15:39:46",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000067,
+            "user_id": 241404076
+        },
+        {
+            "ts": 1790340172.7245233,
+            "time": "2026-09-25 15:42:52",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000285,
+            "user_id": 418540623
+        },
+        {
+            "ts": 1790340190.859104,
+            "time": "2026-09-25 15:43:10",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 418540623
+        },
+        {
+            "ts": 1790342146.0711098,
+            "time": "2026-09-25 16:15:46",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000618,
+            "user_id": 186080682
+        },
+        {
+            "ts": 1790343502.8552878,
+            "time": "2026-09-25 16:38:22",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 545142586
+        },
+        {
+            "ts": 1790343932.8009212,
+            "time": "2026-09-25 16:45:32",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000749,
+            "user_id": 297535880
+        },
+        {
+            "ts": 1790344681.0688634,
+            "time": "2026-09-25 16:58:01",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000748,
+            "user_id": 509161964
+        },
+        {
+            "ts": 1790345136.7036695,
+            "time": "2026-09-25 17:05:36",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000271,
+            "user_id": 131888593
+        },
+        {
+            "ts": 1790345209.8521864,
+            "time": "2026-09-25 17:06:49",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 610481549
+        },
+        {
+            "ts": 1790345218.9023168,
+            "time": "2026-09-25 17:06:58",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 610481549
+        },
+        {
+            "ts": 1790345225.0417893,
+            "time": "2026-09-25 17:07:05",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 576844591
+        },
+        {
+            "ts": 1790345306.6132302,
+            "time": "2026-09-25 17:08:26",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1790345540.4065328,
+            "time": "2026-09-25 17:12:20",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 654761256
+        },
+        {
+            "ts": 1790345547.4150608,
+            "time": "2026-09-25 17:12:27",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 654761256
+        },
+        {
+            "ts": 1790345558.5702877,
+            "time": "2026-09-25 17:12:38",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 654761256
+        },
+        {
+            "ts": 1790346123.8823545,
+            "time": "2026-09-25 17:22:03",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000740,
+            "user_id": 17709572
+        },
+        {
+            "ts": 1790346202.9386477,
+            "time": "2026-09-25 17:23:22",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000740,
+            "user_id": 17709572
+        },
+        {
+            "ts": 1790348871.5198889,
+            "time": "2026-09-25 18:07:51",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000018,
+            "user_id": 200001969407
+        },
+        {
+            "ts": 1790348882.0962887,
+            "time": "2026-09-25 18:08:02",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000018,
+            "user_id": 200001969407
+        },
+        {
+            "ts": 1790351924.0733793,
+            "time": "2026-09-25 18:58:44",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000483,
+            "user_id": 767375733
+        },
+        {
+            "ts": 1790352275.0891478,
+            "time": "2026-09-25 19:04:35",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000533,
+            "user_id": 255354279
+        },
+        {
+            "ts": 1790354217.050399,
+            "time": "2026-09-25 19:36:57",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 793827360
+        },
+        {
+            "ts": 1790358906.2315912,
+            "time": "2026-09-25 20:55:06",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000036,
+            "user_id": 93116653
+        },
+        {
+            "ts": 1790358916.3368273,
+            "time": "2026-09-25 20:55:16",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 537699524
+        },
+        {
+            "ts": 1790360474.7588468,
+            "time": "2026-09-25 21:21:14",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 807287354
+        },
+        {
+            "ts": 1790363174.653017,
+            "time": "2026-09-25 22:06:14",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 93116653
+        },
+        {
+            "ts": 1790363424.2942836,
+            "time": "2026-09-25 22:10:24",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 122676118
+        },
+        {
+            "ts": 1790365722.543653,
+            "time": "2026-09-25 22:48:42",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000060,
+            "user_id": 729368449
+        },
+        {
+            "ts": 1790365736.3146465,
+            "time": "2026-09-25 22:48:56",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 752793627
+        },
+        {
+            "ts": 1790366417.776117,
+            "time": "2026-09-25 23:00:17",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000598,
+            "user_id": 617695729
+        },
+        {
+            "ts": 1790366725.8962612,
+            "time": "2026-09-25 23:05:25",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000530,
+            "user_id": 850041093
+        },
+        {
+            "ts": 1790366743.4567914,
+            "time": "2026-09-25 23:05:43",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000530,
+            "user_id": 850041093
+        },
+        {
+            "ts": 1790367022.2047324,
+            "time": "2026-09-25 23:10:22",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000631,
+            "user_id": 570679592
+        },
+        {
+            "ts": 1790367671.688157,
+            "time": "2026-09-25 23:21:11",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000647,
+            "user_id": 180682248
+        },
+        {
+            "ts": 1790370433.7590652,
+            "time": "2026-09-26 00:07:13",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 1051838079
+        },
+        {
+            "ts": 1790374146.7575462,
+            "time": "2026-09-26 01:09:06",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 473731243
+        },
+        {
+            "ts": 1790379221.726831,
+            "time": "2026-09-26 02:33:41",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 572866161
+        },
+        {
+            "ts": 1790384221.5496874,
+            "time": "2026-09-26 03:57:01",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000060,
+            "user_id": 260665728
+        },
+        {
+            "ts": 1790384241.3782368,
+            "time": "2026-09-26 03:57:21",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000060,
+            "user_id": 260665728
+        },
+        {
+            "ts": 1790384643.7924519,
+            "time": "2026-09-26 04:04:03",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 238217095
+        },
+        {
+            "ts": 1790385694.688131,
+            "time": "2026-09-26 04:21:34",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 538423290
+        },
+        {
+            "ts": 1790397859.2186704,
+            "time": "2026-09-26 07:44:19",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000475,
+            "user_id": 1042106461
+        },
+        {
+            "ts": 1790398125.179495,
+            "time": "2026-09-26 07:48:45",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000060,
+            "user_id": 1043860543
+        },
+        {
+            "ts": 1790398314.7577682,
+            "time": "2026-09-26 07:51:54",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000290,
+            "user_id": 133065670
+        },
+        {
+            "ts": 1790398656.296052,
+            "time": "2026-09-26 07:57:36",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 382138203
+        },
+        {
+            "ts": 1790398749.2316864,
+            "time": "2026-09-26 07:59:09",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 764781358
+        },
+        {
+            "ts": 1790400194.4802918,
+            "time": "2026-09-26 08:23:14",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000720,
+            "user_id": 510964052
+        },
+        {
+            "ts": 1790401070.358781,
+            "time": "2026-09-26 08:37:50",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000060,
+            "user_id": 639724974
+        },
+        {
+            "ts": 1790401186.7093477,
+            "time": "2026-09-26 08:39:46",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000207,
+            "user_id": 259626844
+        },
+        {
+            "ts": 1790402853.6179464,
+            "time": "2026-09-26 09:07:33",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000727,
+            "user_id": 2428071
+        },
+        {
+            "ts": 1790402872.8081949,
+            "time": "2026-09-26 09:07:52",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000348,
+            "user_id": 1029893751
+        },
+        {
+            "ts": 1790404467.429715,
+            "time": "2026-09-26 09:34:27",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 738845317
+        },
+        {
+            "ts": 1790405415.524425,
+            "time": "2026-09-26 09:50:15",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000162,
+            "user_id": 404809978
+        },
+        {
+            "ts": 1790407504.098391,
+            "time": "2026-09-26 10:25:04",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000154,
+            "user_id": 12210781
+        },
+        {
+            "ts": 1790410500.700451,
+            "time": "2026-09-26 11:15:00",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000677,
+            "user_id": 867331074
+        },
+        {
+            "ts": 1790411309.1936786,
+            "time": "2026-09-26 11:28:29",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 233409007
+        },
+        {
+            "ts": 1790411429.1380792,
+            "time": "2026-09-26 11:30:29",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 233409007
+        },
+        {
+            "ts": 1790412512.7692366,
+            "time": "2026-09-26 11:48:32",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 472576666
+        },
+        {
+            "ts": 1790412772.7461646,
+            "time": "2026-09-26 11:52:52",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 196417
+        },
+        {
+            "ts": 1790412907.8942127,
+            "time": "2026-09-26 11:55:07",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 645200311
+        },
+        {
+            "ts": 1790413117.6431725,
+            "time": "2026-09-26 11:58:37",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000006,
+            "user_id": 15832933
+        },
+        {
+            "ts": 1790413906.8282177,
+            "time": "2026-09-26 12:11:46",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000168,
+            "user_id": 632645831
+        },
+        {
+            "ts": 1790415336.9941838,
+            "time": "2026-09-26 12:35:36",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000168,
+            "user_id": 646279564
+        },
+        {
+            "ts": 1790415351.04937,
+            "time": "2026-09-26 12:35:51",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000168,
+            "user_id": 646279564
+        },
+        {
+            "ts": 1790415852.170659,
+            "time": "2026-09-26 12:44:12",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 245947399
+        },
+        {
+            "ts": 1790416849.2432182,
+            "time": "2026-09-26 13:00:49",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1048684715
+        },
+        {
+            "ts": 1790425191.1591165,
+            "time": "2026-09-26 15:19:51",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000462,
+            "user_id": 153976925
+        },
+        {
+            "ts": 1790427999.1486936,
+            "time": "2026-09-26 16:06:39",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000631,
+            "user_id": 1032379985
+        },
+        {
+            "ts": 1790431982.3626006,
+            "time": "2026-09-26 17:13:02",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 625027599
+        },
+        {
+            "ts": 1790437272.381611,
+            "time": "2026-09-26 18:41:12",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 1061607909
+        },
+        {
+            "ts": 1790440731.839324,
+            "time": "2026-09-26 19:38:51",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 612465002
+        },
+        {
+            "ts": 1790444134.7116692,
+            "time": "2026-09-26 20:35:34",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000690,
+            "user_id": 572043572
+        },
+        {
+            "ts": 1790444163.0351143,
+            "time": "2026-09-26 20:36:03",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000690,
+            "user_id": 572043572
+        },
+        {
+            "ts": 1790444476.53248,
+            "time": "2026-09-26 20:41:16",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000690,
+            "user_id": 572043572
+        },
+        {
+            "ts": 1790449381.7320898,
+            "time": "2026-09-26 22:03:01",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 581700066
+        },
+        {
+            "ts": 1790449387.430202,
+            "time": "2026-09-26 22:03:07",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 581700066
+        },
+        {
+            "ts": 1790449406.1621568,
+            "time": "2026-09-26 22:03:26",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 581700066
+        },
+        {
+            "ts": 1790450563.109014,
+            "time": "2026-09-26 22:22:43",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 780790401
+        },
+        {
+            "ts": 1790450573.8009686,
+            "time": "2026-09-26 22:22:53",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 780790401
+        },
+        {
+            "ts": 1790456486.71511,
+            "time": "2026-09-27 00:01:26",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 819143012
+        },
+        {
+            "ts": 1790458051.7577164,
+            "time": "2026-09-27 00:27:31",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 537699524
+        },
+        {
+            "ts": 1790461217.6993103,
+            "time": "2026-09-27 01:20:17",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000677,
+            "user_id": 296922026
+        },
+        {
+            "ts": 1790469324.3257372,
+            "time": "2026-09-27 03:35:24",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000429,
+            "user_id": 774487032
+        },
+        {
+            "ts": 1790470656.6387866,
+            "time": "2026-09-27 03:57:36",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 287928237
+        },
+        {
+            "ts": 1790470672.2591157,
+            "time": "2026-09-27 03:57:52",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 287928237
+        },
+        {
+            "ts": 1790481174.4473798,
+            "time": "2026-09-27 06:52:54",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 723546224
+        },
+        {
+            "ts": 1790483871.125601,
+            "time": "2026-09-27 07:37:51",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000759,
+            "user_id": 812467931
+        },
+        {
+            "ts": 1790485950.5926816,
+            "time": "2026-09-27 08:12:30",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 793827360
+        },
+        {
+            "ts": 1790491006.7566943,
+            "time": "2026-09-27 09:36:46",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000014,
+            "user_id": 187853535
+        },
+        {
+            "ts": 1790491026.9264061,
+            "time": "2026-09-27 09:37:06",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 187853535
+        },
+        {
+            "ts": 1790491036.9111943,
+            "time": "2026-09-27 09:37:16",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 50766023
+        },
+        {
+            "ts": 1790496374.5049987,
+            "time": "2026-09-27 11:06:14",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 142230542
+        },
+        {
+            "ts": 1790496386.592763,
+            "time": "2026-09-27 11:06:26",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 142230542
+        },
+        {
+            "ts": 1790499672.9709144,
+            "time": "2026-09-27 12:01:12",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 625027599
+        },
+        {
+            "ts": 1790499779.9935923,
+            "time": "2026-09-27 12:02:59",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000159,
+            "user_id": 625027599
+        },
+        {
+            "ts": 1790499790.2686372,
+            "time": "2026-09-27 12:03:10",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000168,
+            "user_id": 37779037
+        },
+        {
+            "ts": 1790500013.727467,
+            "time": "2026-09-27 12:06:53",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000117,
+            "user_id": 200004467799
+        },
+        {
+            "ts": 1790500022.3086984,
+            "time": "2026-09-27 12:07:02",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000587,
+            "user_id": 550713637
+        },
+        {
+            "ts": 1790500474.5600102,
+            "time": "2026-09-27 12:14:34",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 56056012
+        },
+        {
+            "ts": 1790500770.4059815,
+            "time": "2026-09-27 12:19:30",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 1119568677
+        },
+        {
+            "ts": 1790500795.3266873,
+            "time": "2026-09-27 12:19:55",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000117,
+            "user_id": 696955304
+        },
+        {
+            "ts": 1790500952.569747,
+            "time": "2026-09-27 12:22:32",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000117,
+            "user_id": 639525299
+        },
+        {
+            "ts": 1790501149.5197215,
+            "time": "2026-09-27 12:25:49",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 418540623
+        },
+        {
+            "ts": 1790501158.2385767,
+            "time": "2026-09-27 12:25:58",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 418540623
+        },
+        {
+            "ts": 1790501183.9658854,
+            "time": "2026-09-27 12:26:23",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000285,
+            "user_id": 418540623
+        },
+        {
+            "ts": 1790502351.4234068,
+            "time": "2026-09-27 12:45:51",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000033,
+            "user_id": 612465002
+        },
+        {
+            "ts": 1790503484.5267348,
+            "time": "2026-09-27 13:04:44",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000120,
+            "user_id": 680380739
+        },
+        {
+            "ts": 1790503580.41882,
+            "time": "2026-09-27 13:06:20",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 680380739
+        },
+        {
+            "ts": 1790503724.5322287,
+            "time": "2026-09-27 13:08:44",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 680380739
+        },
+        {
+            "ts": 1790503978.6790957,
+            "time": "2026-09-27 13:12:58",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 831345041
+        },
+        {
+            "ts": 1790504078.845596,
+            "time": "2026-09-27 13:14:38",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 804534003
+        },
+        {
+            "ts": 1790504861.453901,
+            "time": "2026-09-27 13:27:41",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000207,
+            "user_id": 187798544
+        },
+        {
+            "ts": 1790505049.1162083,
+            "time": "2026-09-27 13:30:49",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000145,
+            "user_id": 378580733
+        },
+        {
+            "ts": 1790505153.507587,
+            "time": "2026-09-27 13:32:33",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 639525299
+        },
+        {
+            "ts": 1790507381.005732,
+            "time": "2026-09-27 14:09:41",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000060,
+            "user_id": 1084112253
+        },
+        {
+            "ts": 1790508030.371025,
+            "time": "2026-09-27 14:20:30",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 163472356
+        },
+        {
+            "ts": 1790509382.8515966,
+            "time": "2026-09-27 14:43:02",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 538423290
+        },
+        {
+            "ts": 1790512082.1586697,
+            "time": "2026-09-27 15:28:02",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000348,
+            "user_id": 641777484
+        },
+        {
+            "ts": 1790512627.3398302,
+            "time": "2026-09-27 15:37:07",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000015,
+            "user_id": 162783494
+        },
+        {
+            "ts": 1790513379.7437842,
+            "time": "2026-09-27 15:49:39",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000210,
+            "user_id": 326044937
+        },
+        {
+            "ts": 1790519696.9250188,
+            "time": "2026-09-27 17:34:56",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000708,
+            "user_id": 132355850
+        },
+        {
+            "ts": 1790519728.9319472,
+            "time": "2026-09-27 17:35:28",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000708,
+            "user_id": 132355850
+        },
+        {
+            "ts": 1790527778.5306184,
+            "time": "2026-09-27 19:49:38",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000007,
+            "user_id": 682638820
+        },
+        {
+            "ts": 1790529341.975669,
+            "time": "2026-09-27 20:15:41",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000462,
+            "user_id": 138266983
+        },
+        {
+            "ts": 1790534196.9880447,
+            "time": "2026-09-27 21:36:36",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 243582710
+        },
+        {
+            "ts": 1790536844.5262492,
+            "time": "2026-09-27 22:20:44",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 664820779
+        },
+        {
+            "ts": 1790536845.3898294,
+            "time": "2026-09-27 22:20:45",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 664820779
+        },
+        {
+            "ts": 1790536857.1136312,
+            "time": "2026-09-27 22:20:57",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 664820779
+        },
+        {
+            "ts": 1790536910.84666,
+            "time": "2026-09-27 22:21:50",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 664820779
+        },
+        {
+            "ts": 1790536921.059354,
+            "time": "2026-09-27 22:22:01",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 664820779
+        },
+        {
+            "ts": 1790538606.7089658,
+            "time": "2026-09-27 22:50:06",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 1094157988
+        },
+        {
+            "ts": 1790538609.1189382,
+            "time": "2026-09-27 22:50:09",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 1094157988
+        },
+        {
+            "ts": 1790540509.4366753,
+            "time": "2026-09-27 23:21:49",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 550172590
+        },
+        {
+            "ts": 1790541167.9727993,
+            "time": "2026-09-27 23:32:47",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 437470387
+        },
+        {
+            "ts": 1790541181.19533,
+            "time": "2026-09-27 23:33:01",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 437470387
+        },
+        {
+            "ts": 1790543324.1825721,
+            "time": "2026-09-28 00:08:44",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 432920644
+        },
+        {
+            "ts": 1790543334.3397064,
+            "time": "2026-09-28 00:08:54",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 432920644
+        },
+        {
+            "ts": 1790565928.2854095,
+            "time": "2026-09-28 06:25:28",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 1126723260
+        },
+        {
+            "ts": 1790569287.1011221,
+            "time": "2026-09-28 07:21:27",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 323231614
+        },
+        {
+            "ts": 1790569293.4140785,
+            "time": "2026-09-28 07:21:33",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 323231614
+        },
+        {
+            "ts": 1790570728.912374,
+            "time": "2026-09-28 07:45:28",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000006,
+            "user_id": 185362782
+        },
+        {
+            "ts": 1790570824.7893217,
+            "time": "2026-09-28 07:47:04",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 263205583
+        },
+        {
+            "ts": 1790570827.144563,
+            "time": "2026-09-28 07:47:07",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 263205583
+        },
+        {
+            "ts": 1790571865.3821545,
+            "time": "2026-09-28 08:04:25",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000497,
+            "user_id": 556224349
+        },
+        {
+            "ts": 1790578904.2650616,
+            "time": "2026-09-28 10:01:44",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 778814839
+        },
+        {
+            "ts": 1790580183.6712945,
+            "time": "2026-09-28 10:23:03",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 531949539
+        },
+        {
+            "ts": 1790586093.733001,
+            "time": "2026-09-28 12:01:33",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 639525299
+        },
+        {
+            "ts": 1790586210.9673326,
+            "time": "2026-09-28 12:03:30",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 592518474
+        },
+        {
+            "ts": 1790589543.9059854,
+            "time": "2026-09-28 12:59:03",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 536773684
+        },
+        {
+            "ts": 1790589821.8701608,
+            "time": "2026-09-28 13:03:41",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000622,
+            "user_id": 153528458
+        },
+        {
+            "ts": 1790595164.5020707,
+            "time": "2026-09-28 14:32:44",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 147135034
+        },
+        {
+            "ts": 1790595292.3772473,
+            "time": "2026-09-28 14:34:52",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 598727154
+        },
+        {
+            "ts": 1790597306.3869681,
+            "time": "2026-09-28 15:08:26",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 226541968
+        },
+        {
+            "ts": 1790600138.5136125,
+            "time": "2026-09-28 15:55:38",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000008,
+            "user_id": 133399412
+        },
+        {
+            "ts": 1790600186.4535797,
+            "time": "2026-09-28 15:56:26",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 133399412
+        },
+        {
+            "ts": 1790600211.7480419,
+            "time": "2026-09-28 15:56:51",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 133399412
+        },
+        {
+            "ts": 1790600926.0594897,
+            "time": "2026-09-28 16:08:46",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 778814839
+        },
+        {
+            "ts": 1790604214.8695767,
+            "time": "2026-09-28 17:03:34",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 639525299
+        },
+        {
+            "ts": 1790604334.5653634,
+            "time": "2026-09-28 17:05:34",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 52167262
+        },
+        {
+            "ts": 1790606376.869674,
+            "time": "2026-09-28 17:39:36",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000290,
+            "user_id": 226541968
+        },
+        {
+            "ts": 1790608632.4610567,
+            "time": "2026-09-28 18:17:12",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 245947399
+        },
+        {
+            "ts": 1790609096.6400254,
+            "time": "2026-09-28 18:24:56",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000708,
+            "user_id": 179497751
+        },
+        {
+            "ts": 1790609154.5724032,
+            "time": "2026-09-28 18:25:54",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000708,
+            "user_id": 179497751
+        },
+        {
+            "ts": 1790618062.4219198,
+            "time": "2026-09-28 20:54:22",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 619835054
+        },
+        {
+            "ts": 1790619344.6167688,
+            "time": "2026-09-28 21:15:44",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 552438472
+        },
+        {
+            "ts": 1790619358.5229108,
+            "time": "2026-09-28 21:15:58",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000285,
+            "user_id": 552438472
+        },
+        {
+            "ts": 1790619614.4757416,
+            "time": "2026-09-28 21:20:14",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000720,
+            "user_id": 713863303
+        },
+        {
+            "ts": 1790622800.3588316,
+            "time": "2026-09-28 22:13:20",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 514361292
+        },
+        {
+            "ts": 1790625902.5090046,
+            "time": "2026-09-28 23:05:02",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1104183811
+        },
+        {
+            "ts": 1790627723.9929416,
+            "time": "2026-09-28 23:35:23",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000306,
+            "user_id": 541506709
+        },
+        {
+            "ts": 1790627744.3278568,
+            "time": "2026-09-28 23:35:44",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 1064142278
+        },
+        {
+            "ts": 1790627912.5642283,
+            "time": "2026-09-28 23:38:32",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1064142278
+        },
+        {
+            "ts": 1790629196.188353,
+            "time": "2026-09-28 23:59:56",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000306,
+            "user_id": 541506709
+        },
+        {
+            "ts": 1790638169.1604252,
+            "time": "2026-09-29 02:29:29",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000418,
+            "user_id": 44938213
+        },
+        {
+            "ts": 1790638176.700477,
+            "time": "2026-09-29 02:29:36",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000418,
+            "user_id": 44938213
+        },
+        {
+            "ts": 1790642655.558246,
+            "time": "2026-09-29 03:44:15",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 153528458
+        },
+        {
+            "ts": 1790643910.4726346,
+            "time": "2026-09-29 04:05:10",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 778814839
+        },
+        {
+            "ts": 1790651607.6308491,
+            "time": "2026-09-29 06:13:27",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000289,
+            "user_id": 847705808
+        },
+        {
+            "ts": 1790660350.359089,
+            "time": "2026-09-29 08:39:10",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 887828733
+        },
+        {
+            "ts": 1790661923.0285418,
+            "time": "2026-09-29 09:05:23",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 578915763
+        },
+        {
+            "ts": 1790661950.0766766,
+            "time": "2026-09-29 09:05:50",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 578915763
+        },
+        {
+            "ts": 1790662771.716552,
+            "time": "2026-09-29 09:19:31",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000168,
+            "user_id": 1056883058
+        },
+        {
+            "ts": 1790663496.18054,
+            "time": "2026-09-29 09:31:36",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 578915763
+        },
+        {
+            "ts": 1790663536.737231,
+            "time": "2026-09-29 09:32:16",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000008,
+            "user_id": 578915763
+        },
+        {
+            "ts": 1790663555.2138371,
+            "time": "2026-09-29 09:32:35",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 155340055
+        },
+        {
+            "ts": 1790668729.2394853,
+            "time": "2026-09-29 10:58:49",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000120,
+            "user_id": 384714219
+        },
+        {
+            "ts": 1790674777.7401335,
+            "time": "2026-09-29 12:39:37",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 238217095
+        },
+        {
+            "ts": 1790676779.9488266,
+            "time": "2026-09-29 13:12:59",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 377895057
+        },
+        {
+            "ts": 1790677930.139731,
+            "time": "2026-09-29 13:32:10",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000766,
+            "user_id": 844005167
+        },
+        {
+            "ts": 1790680227.6712663,
+            "time": "2026-09-29 14:10:27",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 573150438
+        },
+        {
+            "ts": 1790680452.8868263,
+            "time": "2026-09-29 14:14:12",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1056883058
+        },
+        {
+            "ts": 1790682079.7734923,
+            "time": "2026-09-29 14:41:19",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 586908146
+        },
+        {
+            "ts": 1790682634.919342,
+            "time": "2026-09-29 14:50:34",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000006,
+            "user_id": 16192395
+        },
+        {
+            "ts": 1790688413.5663488,
+            "time": "2026-09-29 16:26:53",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 587373741
+        },
+        {
+            "ts": 1790688435.1165543,
+            "time": "2026-09-29 16:27:15",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 587373741
+        },
+        {
+            "ts": 1790688704.4746044,
+            "time": "2026-09-29 16:31:44",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 587373741
+        },
+        {
+            "ts": 1790690537.3922813,
+            "time": "2026-09-29 17:02:17",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 800590512
+        },
+        {
+            "ts": 1790697195.3785892,
+            "time": "2026-09-29 18:53:15",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000290,
+            "user_id": 399883287
+        },
+        {
+            "ts": 1790701927.265525,
+            "time": "2026-09-29 20:12:07",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000348,
+            "user_id": 741499025
+        },
+        {
+            "ts": 1790709449.1118388,
+            "time": "2026-09-29 22:17:29",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 840606658
+        },
+        {
+            "ts": 1790711218.6726027,
+            "time": "2026-09-29 22:46:58",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000215,
+            "user_id": 118032755
+        },
+        {
+            "ts": 1790715538.49985,
+            "time": "2026-09-29 23:58:58",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1113035852
+        },
+        {
+            "ts": 1790732893.4275787,
+            "time": "2026-09-30 04:48:13",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000560,
+            "user_id": 199005234
+        },
+        {
+            "ts": 1790737227.445184,
+            "time": "2026-09-30 06:00:27",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 61116271
+        },
+        {
+            "ts": 1790739275.4871495,
+            "time": "2026-09-30 06:34:35",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790739311.9650335,
+            "time": "2026-09-30 06:35:11",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790739342.958135,
+            "time": "2026-09-30 06:35:42",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790739487.0548675,
+            "time": "2026-09-30 06:38:07",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790741141.4344149,
+            "time": "2026-09-30 07:05:41",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790742553.388634,
+            "time": "2026-09-30 07:29:13",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1048684715
+        },
+        {
+            "ts": 1790746339.7632053,
+            "time": "2026-09-30 08:32:19",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 377895057
+        },
+        {
+            "ts": 1790749188.0513692,
+            "time": "2026-09-30 09:19:48",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 867624220
+        },
+        {
+            "ts": 1790750955.983833,
+            "time": "2026-09-30 09:49:15",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000497,
+            "user_id": 35039622
+        },
+        {
+            "ts": 1790750995.7073774,
+            "time": "2026-09-30 09:49:55",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000008,
+            "user_id": 10640908
+        },
+        {
+            "ts": 1790753064.5979807,
+            "time": "2026-09-30 10:24:24",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000019,
+            "user_id": 588813590
+        },
+        {
+            "ts": 1790755262.575338,
+            "time": "2026-09-30 11:01:02",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 86843621
+        },
+        {
+            "ts": 1790755352.434866,
+            "time": "2026-09-30 11:02:32",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 86843621
+        },
+        {
+            "ts": 1790755368.7585325,
+            "time": "2026-09-30 11:02:48",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 86843621
+        },
+        {
+            "ts": 1790755400.738052,
+            "time": "2026-09-30 11:03:20",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 86843621
+        },
+        {
+            "ts": 1790759717.5595534,
+            "time": "2026-09-30 12:15:17",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 377895057
+        },
+        {
+            "ts": 1790761708.092985,
+            "time": "2026-09-30 12:48:28",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000564,
+            "user_id": 406624584
+        },
+        {
+            "ts": 1790762327.719881,
+            "time": "2026-09-30 12:58:47",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000015,
+            "user_id": 219792102
+        },
+        {
+            "ts": 1790763005.2422025,
+            "time": "2026-09-30 13:10:05",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000080,
+            "user_id": 868071980
+        },
+        {
+            "ts": 1790763520.4056842,
+            "time": "2026-09-30 13:18:40",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000355,
+            "user_id": 425217438
+        },
+        {
+            "ts": 1790763558.0398934,
+            "time": "2026-09-30 13:19:18",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000355,
+            "user_id": 425217438
+        },
+        {
+            "ts": 1790766224.1180708,
+            "time": "2026-09-30 14:03:44",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 875056542
+        },
+        {
+            "ts": 1790766227.0259676,
+            "time": "2026-09-30 14:03:47",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 875056542
+        },
+        {
+            "ts": 1790766228.2509549,
+            "time": "2026-09-30 14:03:48",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 875056542
+        },
+        {
+            "ts": 1790766260.5749,
+            "time": "2026-09-30 14:04:20",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000024,
+            "user_id": 875056542
+        },
+        {
+            "ts": 1790767028.753911,
+            "time": "2026-09-30 14:17:08",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000014,
+            "user_id": 153976925
+        },
+        {
+            "ts": 1790767447.073663,
+            "time": "2026-09-30 14:24:07",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 85423019
+        },
+        {
+            "ts": 1790768631.6407578,
+            "time": "2026-09-30 14:43:51",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000014,
+            "user_id": 354398952
+        },
+        {
+            "ts": 1790771525.0994887,
+            "time": "2026-09-30 15:32:05",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 867624220
+        },
+        {
+            "ts": 1790955460.8069527,
+            "time": "2026-10-02 18:37:40",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 612465002
+        },
+        {
+            "ts": 1790955499.2484195,
+            "time": "2026-10-02 18:38:19",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 793827360
+        },
+        {
+            "ts": 1790955501.837043,
+            "time": "2026-10-02 18:38:21",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 793827360
+        },
+        {
+            "ts": 1790955505.2390447,
+            "time": "2026-10-02 18:38:25",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 793827360
+        },
+        {
+            "ts": 1790955506.7632623,
+            "time": "2026-10-02 18:38:26",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 748745653
+        },
+        {
+            "ts": 1790955545.6985805,
+            "time": "2026-10-02 18:39:05",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 748745653
+        },
+        {
+            "ts": 1790955728.058068,
+            "time": "2026-10-02 18:42:08",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 748745653
+        },
+        {
+            "ts": 1790956133.0972595,
+            "time": "2026-10-02 18:48:53",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 67876446
+        },
+        {
+            "ts": 1790956623.277123,
+            "time": "2026-10-02 18:57:03",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000014,
+            "user_id": 761729125
+        },
+        {
+            "ts": 1790957189.8247302,
+            "time": "2026-10-02 19:06:29",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 649148533
+        },
+        {
+            "ts": 1790958496.958083,
+            "time": "2026-10-02 19:28:16",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 257357861
+        },
+        {
+            "ts": 1790960015.9639797,
+            "time": "2026-10-02 19:53:35",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 546252308
+        },
+        {
+            "ts": 1790966184.0950341,
+            "time": "2026-10-02 21:36:24",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 17420815
+        },
+        {
+            "ts": 1790968865.7160006,
+            "time": "2026-10-02 22:21:05",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000413,
+            "user_id": 887576164
+        },
+        {
+            "ts": 1790971541.9858632,
+            "time": "2026-10-02 23:05:41",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000024,
+            "user_id": 634759651
+        },
+        {
+            "ts": 1790974173.3500912,
+            "time": "2026-10-02 23:49:33",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 705303497
+        },
+        {
+            "ts": 1790976579.588358,
+            "time": "2026-10-03 00:29:39",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 660058213
+        },
+        {
+            "ts": 1790990025.6688228,
+            "time": "2026-10-03 04:13:45",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790990096.848562,
+            "time": "2026-10-03 04:14:56",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1790991351.045507,
+            "time": "2026-10-03 04:35:51",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 575890673
+        },
+        {
+            "ts": 1790991373.8046374,
+            "time": "2026-10-03 04:36:13",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 575890673
+        },
+        {
+            "ts": 1790998805.6192713,
+            "time": "2026-10-03 06:40:05",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 780790401
+        },
+        {
+            "ts": 1791000105.5540724,
+            "time": "2026-10-03 07:01:45",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 784323932
+        },
+        {
+            "ts": 1791000118.867095,
+            "time": "2026-10-03 07:01:58",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 784323932
+        },
+        {
+            "ts": 1791001312.8677146,
+            "time": "2026-10-03 07:21:52",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1033498076
+        },
+        {
+            "ts": 1791006090.6421552,
+            "time": "2026-10-03 08:41:30",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000014,
+            "user_id": 404809978
+        },
+        {
+            "ts": 1791008518.6275902,
+            "time": "2026-10-03 09:21:58",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000008,
+            "user_id": 719428289
+        },
+        {
+            "ts": 1791009072.9619138,
+            "time": "2026-10-03 09:31:12",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 67876446
+        },
+        {
+            "ts": 1791009440.6067982,
+            "time": "2026-10-03 09:37:20",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 821837290
+        },
+        {
+            "ts": 1791011857.3517382,
+            "time": "2026-10-03 10:17:37",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 525603130
+        },
+        {
+            "ts": 1791011868.7481236,
+            "time": "2026-10-03 10:17:48",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 525603130
+        },
+        {
+            "ts": 1791013192.7164335,
+            "time": "2026-10-03 10:39:52",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1791013246.2704196,
+            "time": "2026-10-03 10:40:46",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1791013896.7112021,
+            "time": "2026-10-03 10:51:36",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 634759651
+        },
+        {
+            "ts": 1791016339.8683064,
+            "time": "2026-10-03 11:32:19",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 649148533
+        },
+        {
+            "ts": 1791016410.980145,
+            "time": "2026-10-03 11:33:30",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 649148533
+        },
+        {
+            "ts": 1791021879.1175659,
+            "time": "2026-10-03 13:04:39",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 800590512
+        },
+        {
+            "ts": 1791025073.3607337,
+            "time": "2026-10-03 13:57:53",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000003,
+            "user_id": 200004774729
+        },
+        {
+            "ts": 1791025700.6300497,
+            "time": "2026-10-03 14:08:20",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1791029895.756717,
+            "time": "2026-10-03 15:18:15",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 449941522
+        },
+        {
+            "ts": 1791029897.4814222,
+            "time": "2026-10-03 15:18:17",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 449941522
+        },
+        {
+            "ts": 1791029899.4843879,
+            "time": "2026-10-03 15:18:19",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 449941522
+        },
+        {
+            "ts": 1791036334.460423,
+            "time": "2026-10-03 17:05:34",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 865400726
+        },
+        {
+            "ts": 1791040250.9695036,
+            "time": "2026-10-03 18:10:50",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 106021533
+        },
+        {
+            "ts": 1791040257.3079557,
+            "time": "2026-10-03 18:10:57",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 106021533
+        },
+        {
+            "ts": 1791042605.2379785,
+            "time": "2026-10-03 18:50:05",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 67876446
+        },
+        {
+            "ts": 1791045799.1978338,
+            "time": "2026-10-03 19:43:19",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 623950766
+        },
+        {
+            "ts": 1791046156.9124184,
+            "time": "2026-10-03 19:49:16",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 507528573
+        },
+        {
+            "ts": 1791047953.7497563,
+            "time": "2026-10-03 20:19:13",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 617550071
+        },
+        {
+            "ts": 1791057961.7490096,
+            "time": "2026-10-03 23:06:01",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 623950766
+        },
+        {
+            "ts": 1791058376.2904134,
+            "time": "2026-10-03 23:12:56",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 623950766
+        },
+        {
+            "ts": 1791060968.8519797,
+            "time": "2026-10-03 23:56:08",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 243582710
+        },
+        {
+            "ts": 1791060970.721407,
+            "time": "2026-10-03 23:56:10",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 243582710
+        },
+        {
+            "ts": 1791060976.0635085,
+            "time": "2026-10-03 23:56:16",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 243582710
+        },
+        {
+            "ts": 1791091701.8581257,
+            "time": "2026-10-04 08:28:21",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 623950766
+        },
+        {
+            "ts": 1791094437.2107048,
+            "time": "2026-10-04 09:13:57",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 649148533
+        },
+        {
+            "ts": 1791095159.4988031,
+            "time": "2026-10-04 09:25:59",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1130436707
+        },
+        {
+            "ts": 1791095168.9709797,
+            "time": "2026-10-04 09:26:08",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1130436707
+        },
+        {
+            "ts": 1791095198.1388419,
+            "time": "2026-10-04 09:26:38",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1130436707
+        },
+        {
+            "ts": 1791095563.7939851,
+            "time": "2026-10-04 09:32:43",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 161469038
+        },
+        {
+            "ts": 1791101601.9180794,
+            "time": "2026-10-04 11:13:21",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 806091599
+        },
+        {
+            "ts": 1791101636.9379876,
+            "time": "2026-10-04 11:13:56",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 806091599
+        },
+        {
+            "ts": 1791106136.920805,
+            "time": "2026-10-04 12:28:56",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 223487393
+        },
+        {
+            "ts": 1791108567.5178406,
+            "time": "2026-10-04 13:09:27",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000006,
+            "user_id": 871665512
+        },
+        {
+            "ts": 1791113840.5246744,
+            "time": "2026-10-04 14:37:20",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 106021533
+        },
+        {
+            "ts": 1791120056.2355676,
+            "time": "2026-10-04 16:20:56",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 774487032
+        },
+        {
+            "ts": 1791123434.7898173,
+            "time": "2026-10-04 17:17:14",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 601627086
+        },
+        {
+            "ts": 1791123735.3221724,
+            "time": "2026-10-04 17:22:15",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000006,
+            "user_id": 1127809429
+        },
+        {
+            "ts": 1791156672.2475502,
+            "time": "2026-10-05 02:31:12",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 419486862
+        },
+        {
+            "ts": 1791157144.420051,
+            "time": "2026-10-05 02:39:04",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000594,
+            "user_id": 1029918666
+        },
+        {
+            "ts": 1791182065.7156088,
+            "time": "2026-10-05 09:34:25",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1130436707
+        },
+        {
+            "ts": 1791182075.4248464,
+            "time": "2026-10-05 09:34:35",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1130436707
+        },
+        {
+            "ts": 1791187286.8385763,
+            "time": "2026-10-05 11:01:26",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000153,
+            "user_id": 743231061
+        },
+        {
+            "ts": 1791187345.64948,
+            "time": "2026-10-05 11:02:25",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000153,
+            "user_id": 743231061
+        },
+        {
+            "ts": 1791187415.3433027,
+            "time": "2026-10-05 11:03:35",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000153,
+            "user_id": 743231061
+        },
+        {
+            "ts": 1791197256.9161458,
+            "time": "2026-10-05 13:47:36",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 508544188
+        },
+        {
+            "ts": 1791215354.2526484,
+            "time": "2026-10-05 18:49:14",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000061,
+            "user_id": 553194275
+        },
+        {
+            "ts": 1791233988.5179422,
+            "time": "2026-10-05 23:59:48",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1051838079
+        },
+        {
+            "ts": 1791237259.4558673,
+            "time": "2026-10-06 00:54:19",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 635290932
+        },
+        {
+            "ts": 1791244092.3373055,
+            "time": "2026-10-06 02:48:12",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000759,
+            "user_id": 413191609
+        },
+        {
+            "ts": 1791260440.7006001,
+            "time": "2026-10-06 07:20:40",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 266472227
+        },
+        {
+            "ts": 1791260456.2592409,
+            "time": "2026-10-06 07:20:56",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 266472227
+        },
+        {
+            "ts": 1791263571.3698275,
+            "time": "2026-10-06 08:12:51",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1113035852
+        },
+        {
+            "ts": 1791263609.910289,
+            "time": "2026-10-06 08:13:29",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 1113035852
+        },
+        {
+            "ts": 1791265746.2023606,
+            "time": "2026-10-06 08:49:06",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 635290932
+        },
+        {
+            "ts": 1791266475.500129,
+            "time": "2026-10-06 09:01:15",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 238217095
+        },
+        {
+            "ts": 1791272153.24318,
+            "time": "2026-10-06 10:35:53",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 223487393
+        },
+        {
+            "ts": 1791277283.9323058,
+            "time": "2026-10-06 12:01:23",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 806091599
+        },
+        {
+            "ts": 1791277781.5878146,
+            "time": "2026-10-06 12:09:41",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 806091599
+        },
+        {
+            "ts": 1791282705.3800077,
+            "time": "2026-10-06 13:31:45",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000403,
+            "user_id": 2910305
+        },
+        {
+            "ts": 1791290245.2948725,
+            "time": "2026-10-06 15:37:25",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000630,
+            "user_id": 310521256
+        },
+        {
+            "ts": 1791290247.4038997,
+            "time": "2026-10-06 15:37:27",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000630,
+            "user_id": 310521256
+        },
+        {
+            "ts": 1791304973.6957164,
+            "time": "2026-10-06 19:42:53",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 850058069
+        },
+        {
+            "ts": 1791307367.6434336,
+            "time": "2026-10-06 20:22:47",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 517874222
+        },
+        {
+            "ts": 1791307619.658537,
+            "time": "2026-10-06 20:26:59",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000159,
+            "user_id": 226301104
+        },
+        {
+            "ts": 1791353494.6556547,
+            "time": "2026-10-07 09:11:34",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 58446613
+        },
+        {
+            "ts": 1791353534.9278345,
+            "time": "2026-10-07 09:12:14",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 58446613
+        },
+        {
+            "ts": 1791365179.8008487,
+            "time": "2026-10-07 12:26:19",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791365259.2370286,
+            "time": "2026-10-07 12:27:39",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 58446613
+        },
+        {
+            "ts": 1791397691.144317,
+            "time": "2026-10-07 21:28:11",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000119,
+            "user_id": 484100506
+        },
+        {
+            "ts": 1791397694.2525291,
+            "time": "2026-10-07 21:28:14",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000119,
+            "user_id": 484100506
+        },
+        {
+            "ts": 1791397700.077775,
+            "time": "2026-10-07 21:28:20",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000119,
+            "user_id": 484100506
+        },
+        {
+            "ts": 1791397748.0388253,
+            "time": "2026-10-07 21:29:08",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000119,
+            "user_id": 484100506
+        },
+        {
+            "ts": 1791400335.3940108,
+            "time": "2026-10-07 22:12:15",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 611068236
+        },
+        {
+            "ts": 1791437221.234048,
+            "time": "2026-10-08 08:27:01",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 273258479
+        },
+        {
+            "ts": 1791437225.564433,
+            "time": "2026-10-08 08:27:05",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 273258479
+        },
+        {
+            "ts": 1791437354.1048365,
+            "time": "2026-10-08 08:29:14",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 649148533
+        },
+        {
+            "ts": 1791438840.9538903,
+            "time": "2026-10-08 08:54:00",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 722446406
+        },
+        {
+            "ts": 1791444975.0160038,
+            "time": "2026-10-08 10:36:15",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 370527492
+        },
+        {
+            "ts": 1791446230.10733,
+            "time": "2026-10-08 10:57:10",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000018,
+            "user_id": 200005036678
+        },
+        {
+            "ts": 1791446242.0127015,
+            "time": "2026-10-08 10:57:22",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000018,
+            "user_id": 200005036678
+        },
+        {
+            "ts": 1791448072.5649142,
+            "time": "2026-10-08 11:27:52",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1028349428
+        },
+        {
+            "ts": 1791453800.792968,
+            "time": "2026-10-08 13:03:20",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000291,
+            "user_id": 1081198248
+        },
+        {
+            "ts": 1791460968.5955114,
+            "time": "2026-10-08 15:02:48",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 794597078
+        },
+        {
+            "ts": 1791461055.7475262,
+            "time": "2026-10-08 15:04:15",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 794597078
+        },
+        {
+            "ts": 1791469892.7267997,
+            "time": "2026-10-08 17:31:32",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 312702406
+        },
+        {
+            "ts": 1791471118.9327865,
+            "time": "2026-10-08 17:51:58",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000260,
+            "user_id": 622902327
+        },
+        {
+            "ts": 1791477361.8607078,
+            "time": "2026-10-08 19:36:01",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000260,
+            "user_id": 603456078
+        },
+        {
+            "ts": 1791477375.5170588,
+            "time": "2026-10-08 19:36:15",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000260,
+            "user_id": 603456078
+        },
+        {
+            "ts": 1791477387.1912994,
+            "time": "2026-10-08 19:36:27",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000260,
+            "user_id": 603456078
+        },
+        {
+            "ts": 1791477391.413914,
+            "time": "2026-10-08 19:36:31",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000260,
+            "user_id": 603456078
+        },
+        {
+            "ts": 1791492047.2935104,
+            "time": "2026-10-08 23:40:47",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000454,
+            "user_id": 581498167
+        },
+        {
+            "ts": 1791536545.0679877,
+            "time": "2026-10-09 12:02:25",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791545551.8211405,
+            "time": "2026-10-09 14:32:31",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 50225920
+        },
+        {
+            "ts": 1791625187.53097,
+            "time": "2026-10-10 12:39:47",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 1087962919
+        },
+        {
+            "ts": 1791625213.8440113,
+            "time": "2026-10-10 12:40:13",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1087962919
+        },
+        {
+            "ts": 1791631953.5161495,
+            "time": "2026-10-10 14:32:33",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 123030850
+        },
+        {
+            "ts": 1791632017.8235872,
+            "time": "2026-10-10 14:33:37",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 75465725
+        },
+        {
+            "ts": 1791634206.5838351,
+            "time": "2026-10-10 15:10:06",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 626669727
+        },
+        {
+            "ts": 1791637958.9295247,
+            "time": "2026-10-10 16:12:38",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000528,
+            "user_id": 652103682
+        },
+        {
+            "ts": 1791651324.1971786,
+            "time": "2026-10-10 19:55:24",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791678250.3896449,
+            "time": "2026-10-11 03:24:10",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000323,
+            "user_id": 758605199
+        },
+        {
+            "ts": 1791701550.190934,
+            "time": "2026-10-11 09:52:30",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000744,
+            "user_id": 188442624
+        },
+        {
+            "ts": 1791703449.9302223,
+            "time": "2026-10-11 10:24:09",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000014,
+            "user_id": 96989537
+        },
+        {
+            "ts": 1791706447.0044997,
+            "time": "2026-10-11 11:14:07",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000014,
+            "user_id": 783318533
+        },
+        {
+            "ts": 1791711741.1040397,
+            "time": "2026-10-11 12:42:21",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 703481656
+        },
+        {
+            "ts": 1791711808.1113849,
+            "time": "2026-10-11 12:43:28",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 703481656
+        },
+        {
+            "ts": 1791722513.9291859,
+            "time": "2026-10-11 15:41:53",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 499590049
+        },
+        {
+            "ts": 1791722597.3882096,
+            "time": "2026-10-11 15:43:17",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 499590049
+        },
+        {
+            "ts": 1791731533.5824873,
+            "time": "2026-10-11 18:12:13",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000014,
+            "user_id": 36833704
+        },
+        {
+            "ts": 1791792115.3218088,
+            "time": "2026-10-12 11:01:55",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791802307.533998,
+            "time": "2026-10-12 13:51:47",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000727,
+            "user_id": 193191540
+        },
+        {
+            "ts": 1791822706.805644,
+            "time": "2026-10-12 19:31:46",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000006,
+            "user_id": 180682248
+        },
+        {
+            "ts": 1791822724.0276535,
+            "time": "2026-10-12 19:32:04",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000006,
+            "user_id": 180682248
+        },
+        {
+            "ts": 1791880244.101493,
+            "time": "2026-10-13 11:30:44",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000660,
+            "user_id": 508691785
+        },
+        {
+            "ts": 1791893172.7696993,
+            "time": "2026-10-13 15:06:12",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 372941218
+        },
+        {
+            "ts": 1791893361.4884818,
+            "time": "2026-10-13 15:09:21",
+            "key": "additional_ad:order_1783581806",
+            "label": "Написать мне!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791946325.579763,
+            "time": "2026-10-14 05:52:05",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000727,
+            "user_id": 193191540
+        },
+        {
+            "ts": 1791968333.786728,
+            "time": "2026-10-14 11:58:53",
+            "key": "additional_ad:order_1783581806",
+            "label": "Написать мне!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791968842.1977901,
+            "time": "2026-10-14 12:07:22",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000001,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791968864.8925517,
+            "time": "2026-10-14 12:07:44",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791968908.8486845,
+            "time": "2026-10-14 12:08:28",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791968914.1625156,
+            "time": "2026-10-14 12:08:34",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791968918.418495,
+            "time": "2026-10-14 12:08:38",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1791979065.9865258,
+            "time": "2026-10-14 14:57:45",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1071134395
+        },
+        {
+            "ts": 1791982632.1774812,
+            "time": "2026-10-14 15:57:12",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000665,
+            "user_id": 256751910
+        },
+        {
+            "ts": 1792004643.0776336,
+            "time": "2026-10-14 22:04:03",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1792021228.3000095,
+            "time": "2026-10-15 02:40:28",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000759,
+            "user_id": 225776831
+        },
+        {
+            "ts": 1792236278.5569966,
+            "time": "2026-10-17 14:24:38",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 789162834
+        },
+        {
+            "ts": 1792237822.347963,
+            "time": "2026-10-17 14:50:22",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1792237826.788895,
+            "time": "2026-10-17 14:50:26",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1077221570
+        },
+        {
+            "ts": 1792341314.114052,
+            "time": "2026-10-18 19:35:14",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 545445305
+        },
+        {
+            "ts": 1792341317.5823553,
+            "time": "2026-10-18 19:35:17",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 545445305
+        },
+        {
+            "ts": 1792341375.0168333,
+            "time": "2026-10-18 19:36:15",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 521811140
+        },
+        {
+            "ts": 1792399938.9717653,
+            "time": "2026-10-19 11:52:18",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 1097981481
+        },
+        {
+            "ts": 1792410210.0784094,
+            "time": "2026-10-19 14:43:30",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000770,
+            "user_id": 838011997
+        },
+        {
+            "ts": 1792444974.3286612,
+            "time": "2026-10-20 00:22:54",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 226541968
+        },
+        {
+            "ts": 1792495765.4011388,
+            "time": "2026-10-20 14:29:25",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1669660
+        },
+        {
+            "ts": 1792515374.995472,
+            "time": "2026-10-20 19:56:14",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000196,
+            "user_id": 604551336
+        },
+        {
+            "ts": 1792515758.3008106,
+            "time": "2026-10-20 20:02:38",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000708,
+            "user_id": 754591004
+        },
+        {
+            "ts": 1792519089.9935548,
+            "time": "2026-10-20 20:58:09",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 259645012
+        },
+        {
+            "ts": 1792586663.067712,
+            "time": "2026-10-21 15:44:23",
+            "key": "main_message_button",
+            "label": "Написать мне!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 572866161
+        },
+        {
+            "ts": 1792669545.3582742,
+            "time": "2026-10-22 14:45:45",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000660,
+            "user_id": 508691785
+        },
+        {
+            "ts": 1792746884.9096587,
+            "time": "2026-10-23 12:14:44",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000304,
+            "user_id": 885538977
+        },
+        {
+            "ts": 1792751874.833976,
+            "time": "2026-10-23 13:37:54",
+            "key": "additional_ad:order_1783581805",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 611068236
+        },
+        {
+            "ts": 1792751924.5606613,
+            "time": "2026-10-23 13:38:44",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 108394122
+        },
+        {
+            "ts": 1792838260.0917819,
+            "time": "2026-10-24 13:37:40",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000008,
+            "user_id": 640216890
+        },
+        {
+            "ts": 1793015915.967474,
+            "time": "2026-10-26 14:58:35",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000002,
+            "user_id": 574393629
+        },
+        {
+            "ts": 1793016623.915679,
+            "time": "2026-10-26 15:10:23",
+            "key": "jobs_broadcast_button",
+            "label": "Посмотреть вакансии",
+            "source": "Блок вакансий",
+            "command": "pm_jobs_deliver",
+            "peer_id": 2000000004,
+            "user_id": 554228860
+        },
+        {
+            "ts": 1793045021.4001641,
+            "time": "2026-10-26 23:03:41",
+            "key": "main_message_button",
+            "label": "Работать с нами!",
+            "source": "Основное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000002,
+            "user_id": 273258479
+        },
+        {
+            "ts": 1793081419.3254006,
+            "time": "2026-10-27 09:10:19",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000290,
+            "user_id": 558687825
+        },
+        {
+            "ts": 1793125246.327491,
+            "time": "2026-10-27 21:20:46",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1057238316
+        },
+        {
+            "ts": 1793125315.7481706,
+            "time": "2026-10-27 21:21:55",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1057238316
+        },
+        {
+            "ts": 1793336633.2617853,
+            "time": "2026-10-30 08:03:53",
+            "key": "additional_ad:order_1783581804",
+            "label": "Присоединиться в чат!",
+            "source": "Дополнительное сообщение",
+            "command": "tracked_openlink",
+            "peer_id": 2000000004,
+            "user_id": 1122025140
+        }
+    ],
+    "links": {
+        "1cdfb3017237cce5": {
+            "url": "https://t.me/RabotnikRUS_BOT?start=ref_5499502358",
+            "label": "Присоединиться в чат!",
+            "stats_key": "additional_ad:order_1783581805",
+            "source": "Дополнительное сообщение",
+            "updated_at": "2026-09-11 07:00:03"
+        },
+        "c47ba64458a5b5c9": {
+            "url": "https://vk.me/join/3zqMOfkn01KYXy2cKXHRlrBUhPLnurRx1_0=",
+            "label": "Присоединиться в чат!",
+            "stats_key": "additional_ad:order_1783581804",
+            "source": "Дополнительное сообщение",
+            "updated_at": "2026-10-27 15:59:31"
+        },
+        "2f1aeb4760ea81cf": {
+            "url": "https://ya.cc/t/7pAM6h54AHfEna",
+            "label": "Работать с нами!",
+            "stats_key": "main_message_button",
+            "source": "Основное сообщение",
+            "updated_at": "2026-10-14 11:58:40"
+        },
+        "c9d8ea4873612d62": {
+            "url": "https://vk.me/join/3zqMOfkn01KYXy2cKXHRlrBUhPLnurRx1_0=",
+            "label": "Вступить в рабочий чат",
+            "stats_key": "pm_subscription_join",
+            "source": "ЛС / обязательное вступление",
+            "updated_at": "2026-10-26 15:37:56"
+        },
+        "dd644240f6cc035d": {
+            "url": "https://t.me/+4sR9GjjqT9ZkNjcy",
+            "label": "Присоединиться в чат!",
+            "stats_key": "additional_ad:order_1783581805",
+            "source": "Дополнительное сообщение",
+            "updated_at": "2026-10-27 15:59:30"
+        },
+        "f9a6e8cccc20f2a9": {
+            "url": "https://vk.ru/makswwy",
+            "label": "Написать мне!",
+            "stats_key": "additional_ad:order_1783581806",
+            "source": "Дополнительное сообщение",
+            "updated_at": "2026-10-14 11:58:37"
+        },
+        "e7bd39b566eae9c9": {
+            "url": "https://vk.ru/makswwy",
+            "label": "Написать мне!",
+            "stats_key": "main_message_button",
+            "source": "Основное сообщение",
+            "updated_at": "2026-10-27 15:59:33"
+        }
+    }
+}
